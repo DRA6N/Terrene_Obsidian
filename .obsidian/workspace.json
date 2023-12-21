@@ -18,83 +18,85 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "conditions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules/conditions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":9}"
+                },
+                {
                   "title": "DM Screen",
                   "icon": "lucide-trello",
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"0. DM Screen/DM Screen.md\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Maps",
+                  "title": "conditions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Maps/Maps.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules/conditions.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Utorim",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Maps/Utorim/Utorim.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "title": "DM Screen",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"0. DM Screen/DM Screen.md\"}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Maps",
+                  "title": "Test Character",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Assets/Maps/Maps.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Test Character.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "0. DM Screen/DM Screen.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d3e11676a509a6cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Appendix C - Statblocks",
+                  "title": "z_Format Reference",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Sewers and Spiders",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":92.28571428571429}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Format Reference.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Sewers and Spiders",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":1.941860465116279}"
+                  "title": "Port Gisahl",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Images/Port Gisahl.jpg\"}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Appendix C - Statblocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Sewers and Spiders",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":208.3298969072165}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "title": "Frozen Griffon",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Images/Frozen Griffon.jpg\"}}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1. The Party/Test Character.md",
-                "mode": "preview",
-                "source": false
+                "file": "0. DM Screen/DM Screen.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. The Party/Test Character.md",
+                "file": "0. DM Screen/DM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "fa1be9480bb07e6f",
@@ -357,7 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
+    "width": 449.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -377,12 +379,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd1e032976e96cce",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": true
-  },
+  "active": "90971a9592d7edad",
   "lastOpenFiles": [
+    "z_Format Reference.md",
+    "z_Assets/Images/Port Gisahl.jpg",
+    "z_Assets/Images/Frozen Griffon.jpg",
     "0. DM Screen/DM Screen.md",
+    "z_Assets/Images/Untitled/Deafened.png",
+    "z_Assets/Images/Untitled/Frightened.png",
+    "rules/conditions.md",
+    "z_Assets/Images/Untitled/Unconscious.png",
+    "z_Assets/Images/Untitled/Paralyzed.png",
+    "z_Assets/Images/Untitled/Invisible.png",
+    "z_Assets/Images/Untitled/Incapacitated.png",
+    "z_Assets/Images/Untitled/Grappled.png",
+    "z_Assets/Images/Untitled/Charmed.png",
+    "z_Assets/Images/Untitled",
+    "1. The Party/Test Character.md",
     "z_Assets/Maps/Maps.md",
     "z_Assets/Maps/Utorim/Utorim.md",
     "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
@@ -392,7 +405,6 @@
     "rules/skills.md",
     "compendium/races/races.md",
     "Flow Charts/Campaign Flow Chart.md",
-    "Flow Charts/Campaign Flow Chart.png",
     "compendium/races/elf.md",
     "compendium/races/gnome.md",
     "compendium/spells/spells.md",
@@ -406,9 +418,6 @@
     "compendium/bestiary/aberration/aberration.md",
     "compendium/optional-features/optional-features.md",
     "compendium/feats/feats.md",
-    "compendium/classes/classes.md",
-    "compendium/backgrounds/backgrounds.md",
-    "compendium/classes/bard.md",
     "desktop.ini",
     "5e SRD/Spells/Wizard Spells",
     "5e SRD/Spells/Warlock Spells",
@@ -417,15 +426,6 @@
     "5e SRD/Spells/Paladin Spells",
     "5e SRD/Spells/Druid Spells",
     "5e SRD/Spells/Cleric Spells",
-    "Untitled",
-    "5e SRD/Spells/Bard Spells",
-    "z_Assets/Images/Utorim.png",
-    "z_Assets/Images/Port Gisahl.jpg",
-    "z_Assets/Images/Frozen Griffon.jpg",
-    "Flow Charts/Carnival Flow Chart.svg",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Images/Monsters/Esganabi.png",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Images/Sewers and Spiders Map.jpg",
-    "Flow Charts/Campaign Flow Chart.svg",
-    "z_Assets/Images/Terrene_Banner.png"
+    "Untitled"
   ]
 }

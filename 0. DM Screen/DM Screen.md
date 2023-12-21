@@ -32,8 +32,23 @@ kanban-plugin: basic
 
 
 
-## Conditions
+## [[conditions|Conditions]]
 
+- [ ] [[Blinded.png|Blinded]]
+- [ ] [[Charmed.png|Charmed]]
+- [ ] [[conditions#Concentration|Concentration]]
+- [ ] [[Deafened.png|Deafened]]
+- [ ] [[Frightened.png|Frightened]]
+- [ ] [[Grappled.png|Grappled]]
+- [ ] [[Incapacitated.png|Incapacitated]]
+- [ ] [[Invisible.png|Invisible]]
+- [ ] [[Paralyzed.png|Paralyzed]]
+- [ ] [[Petrified.png|Petrified]]
+- [ ] [[Poisoned.png|Poisoned]]
+- [ ] [[Prone.png|Prone]]
+- [ ] [[Restrained.png|Restrained]]
+- [ ] [[Stunned.png|Stunned]]
+- [ ] [[Unconscious.png|Unconscious]]
 
 
 ## Combat Actions
