@@ -1,0 +1,112 @@
+/*HR Image and remove old HR with symbol */
+.workspace-leaf-content hr {
+    background: url('data:image/png;base64,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') no-repeat top center;
+    background-size: contain;
+    height: 20px;
+}
+body .hr.cm-line::after, body .markdown-preview-view hr::after, body div:not(.CodeMirror-activeline) > .HyperMD-hr-bg::after {
+  content: none;
+}
+
+body .markdown-preview-view hr, body .hr.cm-line, body .HyperMD-hr-bg {
+  border-top: none;
+}
+
+/*Folder Colors*/
+/*
+Resources to help with icons:
+Search for icons:
+https://iconify.design/icon-sets/
+Convert the SVG code into CSS ready code:
+https://yoksel.github.io/url-encoder/
+*/
+
+
+/*----Align Icons----*/
+.nav-folder-children .nav-folder-title-content::before {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: text-top;
+}
+
+
+/*Theme: Add Your Colors and Icons Here*/
+.theme-dark {
+    /*Add your icon here for easy referencing.
+    Change i to whatever variable name you want*/
+    --i: url("");
+
+    /*Add your folder colors here.
+    Change c to whatever variable name you want*/
+    --c: gray;
+    --c2: #000000;
+}
+
+.theme-light {
+    /*Add your icon here for easy referencing.
+    Change i to whatever variable name you want*/
+    --i: url("");
+
+    /*Add your folder colors here.
+    Change c to whatever variable name you want*/
+    --c: gray;
+    --c2: #000000;
+}
+
+
+
+/*----Template Code----*/
+/*--Add Icons--*/
+.nav-folder-title[data-path=""] .nav-folder-title-content::before {
+    content: url();
+}
+
+/*--Folder Color Styling--*/
+/*Color Root Folder*/
+.nav-folder-title[data-path="Adventures" ] {color: black; background: red; border-bottom: 2px solid var(--c2);}
+.nav-folder-title[data-path="Attachments"] {color: black; background: #9b6200; border-bottom: 2px solid var(--c2);}
+
+/*Color Sub Folder Lines*/
+.nav-folder-title[data-path*="Sewers and Spiders (2-4)"],.nav-folder-title[data-path*="Sewers and Spiders (2-4)"] + .nav-folder-children,.nav-file-title[data-path*=""] {background: #4e0002;}
+.nav-folder-title[data-path*="Attachments"],.nav-folder-title[data-path*="Attachments"] + .nav-folder-children,.nav-file-title[data-path*=""] {color: black; background: #9b6200; border-bottom: 2px solid var(--c2);}
+.nav-folder-title[data-path*="Flow Charts"],.nav-folder-title[data-path*="Flow Charts"] + .nav-folder-children,.nav-file-title[data-path*=""] {background: #505050;}
+/*Change Folder Icon Color */
+.nav-folder-title[data-path*="Adventures"] .nav-folder-title-content::before { color: black; }
+.nav-folder-title[data-path*="Attachments"] .nav-folder-title-content::before { color: black; }
+
+/*Color Sub Folder Lines When Hovering Over Folder*/
+.nav-folder-title[data-path*=""]:hover,
+.nav-folder-title[data-path*=""] + .nav-folder-children:hover,
+.nav-file-title[data-path*=""]:hover {
+    border-color: var(--c);
+}
+
+/*Changes Icon of folder "Template" and all its subfolders.
+Remove *= if you only want it on root folder*/
+.nav-folder-title[data-path*="Template"] .nav-folder-title-content::before {
+    content: var(--f-i);
+}
+
+/*Colors The Folder
+Skip this if you only want to add icons.*/
+.nav-folder-title[data-path="Template"] {
+    color: var(--f-c);
+    background: var(--f-c2);
+    border-bottom: 2px solid var(--f-c2);
+}
+.nav-folder-title[data-path*="Template"],
+.nav-folder-title[data-path*="Template"] + .nav-folder-children,
+.nav-file-title[data-path*="Template"] {
+    border-left: 3px solid var(--f-c2);
+    margin-left: -3px;
+}
+.nav-folder-title[data-path*="Template"]:hover,
+.nav-folder-title[data-path*="Template"] + .nav-folder-children:hover,
+.nav-file-title[data-path*="Template"]:hover {
+    border-color: var(--f-c);
+}
+/* Rounded borders */
+    .nav-folder.mod-root>.nav-folder-children>.nav-folder.is-collapsed>.nav-folder-title{border-radius: 20px;}
+    /* Set up explorer container margins */
+    .nav-files-container{margin: 0px 5px;}

@@ -1,0 +1,8 @@
+
+
+
+```statblock
+monster: Assassin
+```
+
+

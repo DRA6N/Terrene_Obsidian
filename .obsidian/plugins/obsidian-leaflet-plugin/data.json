@@ -1,0 +1,199 @@
+{
+  "mapMarkers": [
+    {
+      "id": "utorim-map",
+      "lastAccessed": 1648642733211,
+      "markers": [
+        {
+          "id": "ID_998bb87a18e9",
+          "type": "default",
+          "loc": [
+            -1.42559814453125,
+            4.5478515625
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8aa8a1adbc8",
+          "type": "default",
+          "loc": [
+            -1.41973876953125,
+            4.5419921875
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a6bc989fa8a",
+          "type": "default",
+          "loc": [
+            -1.42950439453125,
+            4.5458984375
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8a9d8699928",
+          "type": "default",
+          "loc": [
+            -1.42950439453125,
+            4.5439453125
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19eacb3a7888",
+          "type": "Village",
+          "loc": [
+            -1.42950439453125,
+            4.5478515625
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3ae8984a2a",
+          "type": "Village",
+          "loc": [
+            -1.61700439453125,
+            3.9248046875
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea695abb4b89",
+          "type": "Castle",
+          "loc": [
+            -4.038330078125,
+            3.33984375
+          ],
+          "layer": "%5B%5BUtorim.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Attachments/Maps/Utorim/Utorim.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "angle-double-down",
+    "color": "#ff0000",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false,
+    "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAYCAYAAADKx8xXAAACA0lEQVQ4T43UXWiOcRjH8c/92JiRAy07YSVtcYBt8jISZyIv5cBSy8FqE2qWnVCi7FRb5kCKA+TlxFvkcJGQJO+yUoSUlxOazaw9t/7P7q1ne549XHXXfV/X73v9/9f/f113ZGJrSkJX8X28LBrnqFpH+wq2HUIIhqcGTcXFNXsGB5+O6MeA90jXDWtzLI0inmNxCI6Iqu7Qs3qCbV9KhJswiwd9rMyAZ1OpuCEdcg7bAKYk7x14Mww4gGnoKLImgM1pTgZdL36hEzswHe9wGT9wJkm2NuzgKy1lHAu+zTiYJLgddoIj6EcxGrNKiXYycILJwVeBGNXYl4hDAQHeit3Z4E06N9AafPsxiFoswaTkuxs3cC6pNXOqpTT3JjWGzHfRjuuYmxzUDLzALszD+uSUS7rpDwWH9hjCT1zBdvxJoDqUJ8Bh6jPX8Z7aCh4XaL/R0GfMpmykAYrn8/s1qULwlyiyNI4rP/E2u7229HCtsgC5kY+3hksfGtOXC6Lo4as4XpaPfZRKWZ5Oj+pzGvpi5EN9bM54OMVxtOSdjsR5tI+2kiyylf4uSrOT5R2hJuJM8yZWzt5vdP0TLKGxj9NB2BBFLsRxzgJ5VwzAqVQqbkynw6SsauP++JonBKt50h1F1TPjeCFe/jeIRXiW9ZcYw064IqbifDJROVdbCCzYun8B+ZZ5R1DwFWsAAAAASUVORK5CYII="
+  },
+  "markerIcons": [
+    {
+      "type": "Village",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAYCAYAAADKx8xXAAACA0lEQVQ4T43UXWiOcRjH8c/92JiRAy07YSVtcYBt8jISZyIv5cBSy8FqE2qWnVCi7FRb5kCKA+TlxFvkcJGQJO+yUoSUlxOazaw9t/7P7q1ne549XHXXfV/X73v9/9f/f113ZGJrSkJX8X28LBrnqFpH+wq2HUIIhqcGTcXFNXsGB5+O6MeA90jXDWtzLI0inmNxCI6Iqu7Qs3qCbV9KhJswiwd9rMyAZ1OpuCEdcg7bAKYk7x14Mww4gGnoKLImgM1pTgZdL36hEzswHe9wGT9wJkm2NuzgKy1lHAu+zTiYJLgddoIj6EcxGrNKiXYycILJwVeBGNXYl4hDAQHeit3Z4E06N9AafPsxiFoswaTkuxs3cC6pNXOqpTT3JjWGzHfRjuuYmxzUDLzALszD+uSUS7rpDwWH9hjCT1zBdvxJoDqUJ8Bh6jPX8Z7aCh4XaL/R0GfMpmykAYrn8/s1qULwlyiyNI4rP/E2u7229HCtsgC5kY+3hksfGtOXC6Lo4as4XpaPfZRKWZ5Oj+pzGvpi5EN9bM54OMVxtOSdjsR5tI+2kiyylf4uSrOT5R2hJuJM8yZWzt5vdP0TLKGxj9NB2BBFLsRxzgJ5VwzAqVQqbkynw6SsauP++JonBKt50h1F1TPjeCFe/jeIRXiW9ZcYw064IqbifDJROVdbCCzYun8B+ZZ5R1DwFWsAAAAASUVORK5CYII=",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castle",
+      "iconName": "angle-double-down",
+      "color": "#ff0000",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAYCAYAAADKx8xXAAACCElEQVQ4T43US0hVYRDA8d+5aZiLKJHaVNBCyaDSnlpE0SYIIWiRGyEQtEWggutq0Ta0jJBem6DHqlpEtBJcVIRETwWpyMqCNCrCtJDuie96btyrV2vgcA4z85+Zb2a+E5lbmhPTTXye6RbNUFTu5UQtB48hGMNTg+bi4pojU1NPsv554D3SddO+sySNIp5hQzBmnSr7GNqZuI9hAKPYg/JEP4FlPJhgewa8nErFjekQc1rO4yVK8BbnsCinhs4iuwLYkp62+Y4RDKMPX1CHlSjDpgTeHUodpbWc029wF4P4gSk8x+bkUCFyJW4kcHSYXz0sDGA/rqMWa7EAR/ENbViMQ1nwNl37aP+ArwjvkDUMLjTnNU4l2cN3GFOmq6W0jHPuAqrwEUtxNik5NKcTQ8nTg/pkHCW9TIYDZ2UcYSShtNDrF0nQ0OUlOE5DZhzDbFzFo0KDn6kLFa2gPLsAxWv4OUhqPvhTFNkSxxUjvMpdr/1D3KqYh6zn/R1W43feXlZF0cOBON5aiO1PpWxLp//6z1roa5F3DXFmWfIkxRm0ZpWFbsLJCTpCB7PSzmQ3pbmRCl6hZuLM8iaynLYxuv8JltA0waXg2BhFrsbxrAQFMwbgYioVN6XTutjRwf2ZZ54TrOZxbxRVl8XxumR58tg5QazH05y/xH+D4dJfwYFCc50v47yr+wd9ioJHg18f1wAAAABJRU5ErkJggg==",
+      "tags": [
+        "castle"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

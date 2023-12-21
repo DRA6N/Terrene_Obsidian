@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": false,
+    "enableFontawesomeBrands": false,
+    "fontSize": 16,
+    "iconColor": null,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "emojiStyle": "twemoji",
+    "recentlyUsedIcons": [
+      "FasBookSkull",
+      "RaFire",
+      "FasInfo",
+      "FasDiceD20",
+      "RaCastleEmblem"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "1. World Almanac": "RiGlobeFill",
+  "2. Mechanics": "FasGear",
+  "2. Session Journals": "FarNewspaper",
+  "Flow Charts": "FasChartBar",
+  "z_Format Reference.md": "FasInfo",
+  "0. Scratch Notes": "RiStickyNoteFill",
+  "0. DM Screen": "RaCastleFlag",
+  "1. The Party": "RiGroupFill",
+  "0. DM Screen/DM Screen.md": "RaCastleFlag",
+  "5e SRD": "FasDiceD20",
+  "5e SRD/00. 5e SRD.md": "FasInfo",
+  "About the Campaign.md": "FasInfo",
+  "compendium": "FasBookSkull"
+}

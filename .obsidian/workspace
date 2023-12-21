@@ -1,0 +1,349 @@
+{
+  "main": {
+    "id": "bc998a26659f6164",
+    "type": "split",
+    "children": [
+      {
+        "id": "28ce1aebcb6a26c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Adventures/A Most Potent Brew (1)/A Most Potent Brew.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/A Most Potent Brew (1)/A Most Potent Brew.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Attachments/Images/Terrene_Banner.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Attachments/Images/Port Gisahl.jpg\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Attachments/Images/Terrene_Banner.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/A Most Potent Brew (1)/A Most Potent Brew.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e SRD/5e SRD.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e SRD/01. Races.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":102.88888888888889}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5e SRD/5e SRD.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "28ce1aebcb6a26c4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Format Reference.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":13.022222222222222}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5832dffb2e8959e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e73831b7acabb77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f144ab050d689bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "620d202942fe2f90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "resistance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c64c209dadab26ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25458b98cb4f70a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad64d67aa0efc1c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adventures/A Most Potent Brew (1)/A Most Potent Brew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6a122d018b5b3b50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "71f21a421911d44a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0d2bb8e85f97ee71",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a5e7efe453303d87",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1d5380108ff22ab5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "38c6a903dcefb80b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee2a68501e57c6a6",
+            "type": "leaf",
+            "state": {
+              "type": "diagram",
+              "state": {
+                "file": "Flow Charts/Campaign Flow Chart.svg"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "ee2a68501e57c6a6",
+                  "group": null,
+                  "state": "{\"type\":\"diagram\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.svg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ee2a68501e57c6a6",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Adventures/Sewers and Spiders (2-4)/Sewers and Spiders (2-4).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":54.231884057971016}"
+                },
+                {
+                  "leaf": "ee2a68501e57c6a6",
+                  "group": null,
+                  "state": "{\"type\":\"diagram\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.svg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "ee2a68501e57c6a6",
+                  "group": null,
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "28ce1aebcb6a26c4",
+  "lastOpenFiles": [
+    "Adventures/A Most Potent Brew (1)/A Most Potent Brew.md",
+    "Adventures/Introduction (Adventure Hook).md",
+    "About the Campaign.md",
+    "Attachments/Images/Terrene_Banner.png",
+    "Attachments/Images/Port Gisahl.jpg",
+    "5e SRD/5e SRD.md",
+    "5e SRD/01. Races.md",
+    "Format Reference.md",
+    "Adventures/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
+    "Flow Charts/Campaign Flow Chart.svg"
+  ]
+}

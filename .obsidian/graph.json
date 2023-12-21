@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "5e SRD",
+      "color": {
+        "a": 1,
+        "rgb": 12649990
+      }
+    },
+    {
+      "query": "Sewers and Spiders",
+      "color": {
+        "a": 1,
+        "rgb": 65344
+      }
+    },
+    {
+      "query": "12",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.401734104046243,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.059326171875000284,
+  "close": false
+}

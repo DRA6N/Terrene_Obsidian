@@ -1,0 +1,179 @@
+{
+  "userAdmonitions": {
+    "note": {
+      "type": "note",
+      "color": "57, 175, 234",
+      "icon": {
+        "name": "sticky-note",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": true,
+      "noTitle": true
+    },
+    "ReadAloud": {
+      "type": "ReadAloud",
+      "color": "245, 0, 0",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Read Aloud",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "statblock": {
+      "type": "statblock",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "234, 233, 202"
+    },
+    "flowchart": {
+      "type": "flowchart",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "102, 190, 217"
+    },
+    "gallery": {
+      "type": "gallery",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "26, 88, 162"
+    },
+    "readaloud": {
+      "type": "readaloud",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "title": "Read Aloud",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "92, 77, 60"
+    },
+    "charm": {
+      "type": "charm",
+      "icon": {
+        "name": "magic",
+        "type": "font-awesome"
+      },
+      "title": "Charm",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "107, 212, 209"
+    },
+    "letter": {
+      "type": "letter",
+      "icon": {
+        "name": "envelope-open-text",
+        "type": "font-awesome"
+      },
+      "title": "Letter",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "244, 253, 239"
+    },
+    "npc": {
+      "type": "npc",
+      "icon": {
+        "name": "address-card",
+        "type": "font-awesome"
+      },
+      "title": "NPC",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "186, 242, 138"
+    },
+    "scene": {
+      "type": "scene",
+      "icon": {
+        "name": "archway",
+        "type": "font-awesome"
+      },
+      "title": "Scene",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "71, 22, 219"
+    },
+    "skill": {
+      "type": "skill",
+      "icon": {
+        "name": "hand-sparkles",
+        "type": "font-awesome"
+      },
+      "title": "Skill Check",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "34, 71, 99"
+    },
+    "weather": {
+      "type": "weather",
+      "icon": {
+        "name": "cloud-sun",
+        "type": "font-awesome"
+      },
+      "title": "Weather",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "143, 176, 145"
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "10.1.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.d06903",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false
+}

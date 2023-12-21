@@ -1,0 +1,26 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Checkboxes",
+    "S - Images Adjustments",
+    "Theme - D&D WOTC",
+    "S - Embed Adjustments",
+    "S - External Link Icons",
+    "obsidian",
+    "S - Admonitions",
+    "S - Aside",
+    "HR-Image",
+    "S - Folder Styles",
+    "S - Encoded Icons",
+    "S - Kanban",
+    "Theme - D_D WOTC",
+    "compendium-obsidian-0.15",
+    "dnd5e-compendium",
+    "dnd5e-only-statblock",
+    "dnd5e-only-admonitions"
+  ],
+  "translucency": false,
+  "theme": "obsidian",
+  "accentColor": ""
+}
