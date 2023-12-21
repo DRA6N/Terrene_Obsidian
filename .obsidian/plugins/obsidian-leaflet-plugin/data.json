@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "utorim-map",
-      "lastAccessed": 1648642733211,
+      "lastAccessed": 1703189005012,
       "markers": [
         {
           "id": "ID_998bb87a18e9",
@@ -119,9 +119,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Attachments/Maps/Utorim/Utorim.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

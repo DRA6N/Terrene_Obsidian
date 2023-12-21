@@ -45,9 +45,9 @@
   "0. Scratch Notes": "RiStickyNoteFill",
   "0. DM Screen": "RaCastleFlag",
   "1. The Party": "RiGroupFill",
-  "0. DM Screen/DM Screen.md": "RaCastleFlag",
   "5e SRD": "FasDiceD20",
   "5e SRD/00. 5e SRD.md": "FasInfo",
   "About the Campaign.md": "FasInfo",
-  "compendium": "FasBookSkull"
+  "compendium": "FasBookSkull",
+  "0. DM Screen/0. DM Screen.md": "RaCastleFlag"
 }

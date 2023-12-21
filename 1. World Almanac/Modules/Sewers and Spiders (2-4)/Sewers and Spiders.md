@@ -1,5 +1,5 @@
 # Introduction
-Sewers and Spiders is designed to be played for 2-4 hrs for a party of three to five adventurers between 2nd-4th level.
+Sewers and Spiders is designed to be played for 2-4 hrs for a party of three to five adventurers between **2nd-4th level**.
 <hr>
 
 - [[Appendix A - Magic Items]]
@@ -11,13 +11,13 @@ Sewers and Spiders is designed to be played for 2-4 hrs for a party of three to 
 ##### **Thandion Reeves** - "Gentleman" Thief
 *Neutral Evil - Half-Orc*
 
-Every city has a dark side. For as long as people have been coming together to build civilization, some have chosen the path of professional criminality. Thandion Reeves is one such person. Thandion made his name among the criminal element of Port Gisahl with a thieves' guild known as the *Heel of the Snake.* 
+Every city has a dark side. For as long as people have been coming together to build civilization, some have chosen the path of professional criminality. Thandion Reeves is one such person. Thandion made his name among the criminal element of Underdale with a thieves' guild known as the *Heel of the Snake.* 
 Thandion Reeves kicks off this adventure by stealing the **Cerulean Missive.**
 
 ##### Lady Akunai - Cold-Blooded Aristocrat
 *Neutral Evil - High Elf*
 
-Some people were just made to have wealth; Lady Akunai has made it her buisness to become one of those people. Coming up through the cutthroat business world of Port Gisahl left Lady Akunai sharp as a dagger. Golden opportunities await those who impress her.
+Some people were just made to have wealth; Lady Akunai has made it her buisness to become one of those people. Coming up through the cutthroat business world of Underdale left Lady Akunai sharp as a dagger. Golden opportunities await those who impress her.
 
 At all times, Lady Akunai is attended by her manservant and bodyguard - a **wight** named Lo'aztani.
 
@@ -26,23 +26,23 @@ The **Cerulean Missive** was sent to Lady Akunai who expects to receive it promp
 ##### Elsin Orsen - Missive Messenger
 *True Neuutral - Human*
 
-Elsin Orsen is a 14-year-old girl with a mess of curly red hair spilling out from underneath a flat cap and a constellation of freckles across her nose. She makes money as a city-to-city boat messenger to support herself and her ailing brother. She's from out of town and was paid triple her usual rate to bring the Cerulean Missive into Port Gisahl. So, she rented a boat and sailed out, planning to travel back to her hometown in as little as a few weeks.
+Elsin Orsen is a 14-year-old girl with a mess of curly red hair spilling out from underneath a flat cap and a constellation of freckles across her nose. She makes money as a city-to-city boat messenger to support herself and her ailing brother. She's from out of town and was paid triple her usual rate to bring the Cerulean Missive into Underdale. So, she rented a boat and sailed out, planning to travel back to her hometown in as little as a few weeks.
 
 ## Plot Hooks
 The adventure begins when the party meets Elsin Orsen who has been violently dispossessed of the Cerulean Missive.
 ##### Use one of the following three plot hooks to introduce the plot:
 ###### For Glory
-While the party travels through the streets of Port Gisahl, they stumble upon the dazed human messenger Elsin Orsen. Elsin checks her pockets and realizes that the missive is missing. She remembers being accosted by a half-orc with a shock of white hair and mutton chops. Elsin fears Lady Akunai and begs the party to help her recover the missive, promising 50gp. "I'm staying at the Candlekeeper's Claw. Please, if you can, get that letter back to me. It could, quite literally, save my life!"
+While the party travels through the streets of Underdale, they stumble upon the dazed human messenger Elsin Orsen. Elsin checks her pockets and realizes that the missive is missing. She remembers being accosted by a half-orc with a shock of white hair and mutton chops. Elsin fears Lady Akunai and begs the party to help her recover the missive, promising 50gp. "I'm staying at the Candlekeeper's Claw. Please, if you can, get that letter back to me. It could, quite literally, save my life!"
 
 ###### For Riches
-A horse-drawn palanquin cuts across the road in front of the party, stopping them in their tracks as they travel through the streets of Port Gisahl. A voice, not quite human, speaks from within the curtains.
+A horse-drawn palanquin cuts across the road in front of the party, stopping them in their tracks as they travel through the streets of Underdale. A voice, not quite human, speaks from within the curtains.
 "We mean you no harm."
 A pouch full of coins (50gp) is thrown at their feet. The carriage comes to a stop not far from the alleyway where Elsin Orsen is recovering from unconsciousness.
 
 Lady Akunai will not identify herself during this conversation, referring to herself, if pressed, as "an interested party."
 
 ###### For Business
-The party are the beleaguered owners and only employees of a failing Detective Agency/ Adventuring group operating out of Port Gisahl. They have tin minutes to choose a name and figure out what their last gig was. If they don't start earning money fast, the business will have to shut down , and they'll all be out on the street. 
+The party are the beleaguered owners and only employees of a failing Detective Agency/ Adventuring group operating out of Underdale. They have tin minutes to choose a name and figure out what their last gig was. If they don't start earning money fast, the business will have to shut down , and they'll all be out on the street. 
 
 Luckily for them, a young girl stumbles through the front door, clutching her head,which has only just stopped bleeding. It's Elsin Orsen - your next case.
 
@@ -56,7 +56,7 @@ As the party chats with Elsin, an elderly woman peers out through the shutters i
 
 Kimbatuul is the leader of the **Order of Honor**, a neighborhood watch association composed of concerned citizens which fights whatever crime the city guard are too afraid or busy to. When Kimbatuul first started the Order of Honor, more than twenty years ago, she was an accomplished warrior and crafty tactician. Over the years, her body has begun to betray her and the Order's membership dwindled. Now, only she carries the banner ,and she only fights in spirit. 
 
-Kimbatuul is looking for new hearoes to take up her name and start a second generation of heroes to work for the people of Port Gisahl. She asks the party to bring Thandion back to her, alive. If they do, she inducts them as knights into the Order of Honor. 
+Kimbatuul is looking for new hearoes to take up her name and start a second generation of heroes to work for the people of Underdale. She asks the party to bring Thandion back to her, alive. If they do, she inducts them as knights into the Order of Honor. 
 
 ***Following the tree eyed cat***
 A fiendish three eyed cat sits on a nearby wall and stares at the party until it has their attention. It leads the party back to the home of Ungren Lomm, an arcanaloth who is disguised as a wizened human archmage. Ungren can tell the party where Thandion has gone in exchange for a memory from each of them. A powerful memory, something meaningful. Something that hurts. In addition, Ungren asks that the party bring any magical items they find to him so he can add them to his collection.

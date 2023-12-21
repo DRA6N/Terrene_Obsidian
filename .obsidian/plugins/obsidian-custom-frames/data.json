@@ -10,6 +10,28 @@
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
+    },
+    {
+      "url": "http://www.dmheroes.com/",
+      "displayName": "NPCGenerator",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ".markdown-preview-view { max-width: 900px; margin: auto; } "
+    },
+    {
+      "url": "https://www.npcgenerator.com/",
+      "displayName": "CharacterGenerator",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
     }
   ],
   "padding": 5

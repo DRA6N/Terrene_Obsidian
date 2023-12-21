@@ -24,5 +24,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
   "url-into-selection",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "image-window",
+  "obsidian-textgenerator-plugin"
 ]
