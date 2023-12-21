@@ -57,46 +57,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d3e11676a509a6cb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "z_Format Reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Format Reference.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Port Gisahl",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Images/Port Gisahl.jpg\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Frozen Griffon",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Images/Frozen Griffon.jpg\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "0. DM Screen/DM Screen.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,22 +341,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90971a9592d7edad",
+  "active": "4f144ab050d689bc",
   "lastOpenFiles": [
     "z_Format Reference.md",
     "z_Assets/Images/Port Gisahl.jpg",
     "z_Assets/Images/Frozen Griffon.jpg",
     "0. DM Screen/DM Screen.md",
-    "z_Assets/Images/Untitled/Deafened.png",
-    "z_Assets/Images/Untitled/Frightened.png",
+    "z_Assets/Images/Condition Cards/Deafened.png",
+    "z_Assets/Images/Condition Cards/Frightened.png",
     "rules/conditions.md",
-    "z_Assets/Images/Untitled/Unconscious.png",
-    "z_Assets/Images/Untitled/Paralyzed.png",
-    "z_Assets/Images/Untitled/Invisible.png",
-    "z_Assets/Images/Untitled/Incapacitated.png",
-    "z_Assets/Images/Untitled/Grappled.png",
-    "z_Assets/Images/Untitled/Charmed.png",
-    "z_Assets/Images/Untitled",
+    "z_Assets/Images/Condition Cards/Unconscious.png",
+    "z_Assets/Images/Condition Cards/Paralyzed.png",
+    "z_Assets/Images/Condition Cards/Invisible.png",
+    "z_Assets/Images/Condition Cards/Incapacitated.png",
+    "z_Assets/Images/Condition Cards/Grappled.png",
+    "z_Assets/Images/Condition Cards/Charmed.png",
+    "z_Assets/Images/Condition Cards",
     "1. The Party/Test Character.md",
     "z_Assets/Maps/Maps.md",
     "z_Assets/Maps/Utorim/Utorim.md",
