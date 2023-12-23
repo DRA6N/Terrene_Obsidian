@@ -71,3 +71,14 @@ monster: Drow Cultist
 ```
 
 <hr>
+
+## Callouts
+
+> [!info]
+> some info and stuff
+
+> [!infobox]
+> # Name
+> ###### Stats
+> | Type | Stat |
+> | ---- | ---- |

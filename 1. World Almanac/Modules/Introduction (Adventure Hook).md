@@ -10,9 +10,15 @@ banner_y: 1
 
 The characters are tired of their monotonous way of life, whether it be farming, working in the stables, selling themselves out as mercenaries, or working as a blacksmith. Maybe they are young, and haven't had a taste of that adventurer's life yet. They decide they want to see the world, and make some coin while doing so.
 
-They hear about the major trade city just south of the Utorim mainland, Port Gisahl, and decide that would be a good place to seek out adventure. The players spent the last of their coin getting to Port Gisahl.
+They hear about the major trade city just south of the Utorim mainland, Underdale, and decide that would be a good place to seek out adventure. The players spent the last of their coin getting to Underdale.
 
-After spending some time in Port Gisahl, the characters  sought out the employment guild (or see **Alternate Hook Below**). Inside the guild there is a bulletin board with some job postings. Some of the papers are tattered and illegible, but there are a couple still in readable condition.
+After spending some time in Underdale, the characters sought out the employment guild (or see **Alternate Hook Below**). Inside the guild, there is a bulletin board with some job postings. Some of the papers are tattered and illegible, but there are a couple still in readable condition.
+
+>[!info]- About Underdale
+>Underdale is a large costal city located just beyond the southernmost tip of Utorim.
+>>[!scene]- Underdale Map
+>![[Underdale.jpg]]
+
 
 ##### The Three legible postings are:
 - [[A Most Potent Brew]]

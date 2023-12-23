@@ -16,8 +16,14 @@
     "Etherealness",
     "djinni",
     "Gisahl",
-    "Underdale"
+    "Underdale",
+    "errene ",
+    "Underhollow",
+    "Mortilis",
+    "Utorim",
+    "Terrene"
   ],
   "defaultViewMode": "preview",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true
 }

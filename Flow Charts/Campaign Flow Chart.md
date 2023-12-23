@@ -120,6 +120,8 @@ Underhollow ^Xb3rswON
 
 [[A Most Potent Brew]] ^ccUdlXhs
 
+[[Introduction (Adventure Hook)]] ^f0IyJX7B
+
 %%
 # Drawing
 ```json
@@ -159,10 +161,10 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "rectangle",
-			"version": 338,
-			"versionNonce": 1780032642,
+			"version": 339,
+			"versionNonce": 304295211,
 			"isDeleted": false,
-			"id": "Wh4AJvsbOdTcm7FB7EQRl",
+			"id": "f0IyJX7B",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -203,8 +205,8 @@ Underhollow ^Xb3rswON
 					"type": "arrow"
 				}
 			],
-			"updated": 1703138232765,
-			"link": null,
+			"updated": 1703313387379,
+			"link": "[[Introduction (Adventure Hook)]]",
 			"locked": false
 		},
 		{
@@ -239,10 +241,10 @@ Underhollow ^Xb3rswON
 			"rawText": "Players Find\nBulletin Board",
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"containerId": "Wh4AJvsbOdTcm7FB7EQRl",
+			"containerId": "f0IyJX7B",
 			"originalText": "Players Find\nBulletin Board",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -317,7 +319,7 @@ Underhollow ^Xb3rswON
 			"containerId": "ccUdlXhs",
 			"originalText": "A Most Potent Brew\n(1st Lvl)",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -392,7 +394,7 @@ Underhollow ^Xb3rswON
 			"containerId": "eqcv_2Sn20XGhLlEDqJen",
 			"originalText": "The Frozen Griffon",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "ellipse",
@@ -467,7 +469,7 @@ Underhollow ^Xb3rswON
 			"containerId": "25-48F71lAJV6BqBcRiZ3",
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "ellipse",
@@ -542,12 +544,12 @@ Underhollow ^Xb3rswON
 			"containerId": "YqWVRk78FwgzS0Il2fjqq",
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 270,
-			"versionNonce": 1552421698,
+			"version": 284,
+			"versionNonce": 837028174,
 			"isDeleted": false,
 			"id": "TW2TzjNrd5Bi6_JlqFnD4",
 			"fillStyle": "solid",
@@ -569,11 +571,11 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232772,
+			"updated": 1703313387845,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Wh4AJvsbOdTcm7FB7EQRl",
+				"elementId": "f0IyJX7B",
 				"gap": 1,
 				"focus": 0.6964685401641384
 			},
@@ -598,8 +600,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 278,
-			"versionNonce": 505887198,
+			"version": 292,
+			"versionNonce": 1223724494,
 			"isDeleted": false,
 			"id": "aeV11E75jDezfqV-up8vP",
 			"fillStyle": "solid",
@@ -621,11 +623,11 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232773,
+			"updated": 1703313387852,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Wh4AJvsbOdTcm7FB7EQRl",
+				"elementId": "f0IyJX7B",
 				"gap": 1,
 				"focus": -0.34049079754601225
 			},
@@ -716,7 +718,7 @@ Underhollow ^Xb3rswON
 			"containerId": null,
 			"originalText": "KEY",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -791,7 +793,7 @@ Underhollow ^Xb3rswON
 			"containerId": "3r8QaK-2SS4SLyUNw9h93",
 			"originalText": "Milestone",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -866,7 +868,7 @@ Underhollow ^Xb3rswON
 			"containerId": "MCNClUmG0enmRUo3_yzBq",
 			"originalText": "Adventure",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -941,7 +943,7 @@ Underhollow ^Xb3rswON
 			"containerId": "G1koNI6NqlrsCVdpTAg1m",
 			"originalText": "Stepping Stone",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1016,7 +1018,7 @@ Underhollow ^Xb3rswON
 			"containerId": "6181gUghSyhE7pHi0sVJ7",
 			"originalText": "Side Quest",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "diamond",
@@ -1086,12 +1088,12 @@ Underhollow ^Xb3rswON
 			"containerId": null,
 			"originalText": "Main Story",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
-			"version": 415,
-			"versionNonce": 1551675778,
+			"version": 416,
+			"versionNonce": 1121475986,
 			"isDeleted": false,
 			"id": "ee4QWTlC",
 			"fillStyle": "solid",
@@ -1120,9 +1122,13 @@ Underhollow ^Xb3rswON
 				{
 					"id": "dUo9bQ_ier5NdVnrnuiJJ",
 					"type": "arrow"
+				},
+				{
+					"id": "McGRd0d0bh3ORJ9E5rCFo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703138232784,
+			"updated": 1703313321270,
 			"link": "[[Sewers and Spiders]]",
 			"locked": false
 		},
@@ -1161,7 +1167,7 @@ Underhollow ^Xb3rswON
 			"containerId": "ee4QWTlC",
 			"originalText": "Sewers and Spiders\n(2nd Lvl)",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "ellipse",
@@ -1232,12 +1238,12 @@ Underhollow ^Xb3rswON
 			"containerId": "cqhdlLz7j6d-J_vhdoiEM",
 			"originalText": "1a",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 209,
-			"versionNonce": 1710995714,
+			"version": 223,
+			"versionNonce": 1493561934,
 			"isDeleted": false,
 			"id": "dUo9bQ_ier5NdVnrnuiJJ",
 			"fillStyle": "cross-hatch",
@@ -1246,11 +1252,11 @@ Underhollow ^Xb3rswON
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -431.2602844690762,
+			"x": -431.26028581251035,
 			"y": -291,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
-			"width": 1.9798019647280398,
+			"width": 1.979801055124426,
 			"height": 59.75,
 			"seed": 1720530116,
 			"groupIds": [],
@@ -1259,11 +1265,11 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232787,
+			"updated": 1703313387874,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Wh4AJvsbOdTcm7FB7EQRl",
+				"elementId": "f0IyJX7B",
 				"gap": 2,
 				"focus": -0.08104033169996232
 			},
@@ -1281,15 +1287,15 @@ Underhollow ^Xb3rswON
 					0
 				],
 				[
-					-1.9798019647280398,
+					-1.979801055124426,
 					59.75
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 382,
-			"versionNonce": 1400492062,
+			"version": 394,
+			"versionNonce": 647521486,
 			"isDeleted": false,
 			"id": "HmJqTmv_zPUIqDXHQr5tT",
 			"fillStyle": "solid",
@@ -1311,7 +1317,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232788,
+			"updated": 1703313387840,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1340,8 +1346,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "rectangle",
-			"version": 666,
-			"versionNonce": 367085762,
+			"version": 667,
+			"versionNonce": 1229431058,
 			"isDeleted": false,
 			"id": "XbkEBG8fmcNq91m_aDMD1",
 			"fillStyle": "cross-hatch",
@@ -1378,9 +1384,13 @@ Underhollow ^Xb3rswON
 				{
 					"id": "TdmEeEvmG5P7E1K5dtERm",
 					"type": "arrow"
+				},
+				{
+					"id": "McGRd0d0bh3ORJ9E5rCFo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1703138232788,
+			"updated": 1703313321270,
 			"link": null,
 			"locked": false
 		},
@@ -1419,12 +1429,12 @@ Underhollow ^Xb3rswON
 			"containerId": "XbkEBG8fmcNq91m_aDMD1",
 			"originalText": "Players meet\nDimitri Valkenweave",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 193,
-			"versionNonce": 436134018,
+			"version": 196,
+			"versionNonce": 493631182,
 			"isDeleted": false,
 			"id": "7kbzOQ0AYKwNToeldjnrx",
 			"fillStyle": "solid",
@@ -1446,7 +1456,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232790,
+			"updated": 1703313387887,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1471,8 +1481,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 179,
-			"versionNonce": 842981534,
+			"version": 182,
+			"versionNonce": 278408462,
 			"isDeleted": false,
 			"id": "pFRaychnMdi6T6tLloiv-",
 			"fillStyle": "solid",
@@ -1494,7 +1504,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232791,
+			"updated": 1703313387888,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1594,12 +1604,12 @@ Underhollow ^Xb3rswON
 			"containerId": "18kIjCV86YaZkqMoBUJvp",
 			"originalText": "Set sail to\nUtorim",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 201,
-			"versionNonce": 2113808386,
+			"version": 213,
+			"versionNonce": 122963022,
 			"isDeleted": false,
 			"id": "TdmEeEvmG5P7E1K5dtERm",
 			"fillStyle": "solid",
@@ -1621,7 +1631,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232793,
+			"updated": 1703313387897,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1725,12 +1735,12 @@ Underhollow ^Xb3rswON
 			"containerId": "a4-JG_RNhnkdHJBG4TTdR",
 			"originalText": "East Old Road\n(Carnival of Carnage)",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 308,
-			"versionNonce": 1669201246,
+			"version": 322,
+			"versionNonce": 1929424206,
 			"isDeleted": false,
 			"id": "fia_3kn9ArOnsz1vN_pqA",
 			"fillStyle": "solid",
@@ -1752,11 +1762,11 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232795,
+			"updated": 1703313387905,
 			"link": null,
 			"locked": false,
 			"startBinding": {
-				"elementId": "Wh4AJvsbOdTcm7FB7EQRl",
+				"elementId": "f0IyJX7B",
 				"gap": 1,
 				"focus": 0.4185642611112555
 			},
@@ -1852,7 +1862,7 @@ Underhollow ^Xb3rswON
 			"containerId": "STCNNRXxv9EheToctYnCP",
 			"originalText": "Ambushed\nWagon",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -1931,12 +1941,12 @@ Underhollow ^Xb3rswON
 			"containerId": "JlF3KUx52jZ51OkaL77Au",
 			"originalText": "Fork in road w/\nbroken wagon",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 87,
-			"versionNonce": 1976637186,
+			"version": 90,
+			"versionNonce": 1499059086,
 			"isDeleted": false,
 			"id": "QqCF9vtRCJIQ7RFX1-KpW",
 			"fillStyle": "solid",
@@ -1958,7 +1968,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232799,
+			"updated": 1703313387906,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1983,8 +1993,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 184,
-			"versionNonce": 1555124766,
+			"version": 196,
+			"versionNonce": 2133105806,
 			"isDeleted": false,
 			"id": "3PgLlWR98Ix-VsG6zIBxC",
 			"fillStyle": "solid",
@@ -2006,7 +2016,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232800,
+			"updated": 1703313387920,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2110,7 +2120,7 @@ Underhollow ^Xb3rswON
 			"containerId": "WftVndl0NtZ1uUAOe46Ds",
 			"originalText": "Ambushed",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -2152,7 +2162,7 @@ Underhollow ^Xb3rswON
 			"containerId": null,
 			"originalText": "(After returning to\nbroken wagon)",
 			"lineHeight": 1.25,
-			"baseline": 34
+			"baseline": 33
 		},
 		{
 			"type": "rectangle",
@@ -2231,12 +2241,12 @@ Underhollow ^Xb3rswON
 			"containerId": "tEuJmosLWHumBxjk88N65",
 			"originalText": "Bandit Camp",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 58,
-			"versionNonce": 849600222,
+			"version": 61,
+			"versionNonce": 857035022,
 			"isDeleted": false,
 			"id": "g--Msv0PYV17bPMVScVHi",
 			"fillStyle": "solid",
@@ -2258,7 +2268,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232804,
+			"updated": 1703313387927,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2283,8 +2293,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 234,
-			"versionNonce": 557090306,
+			"version": 246,
+			"versionNonce": 779442702,
 			"isDeleted": false,
 			"id": "HMKquX0_CKvnyg1UeLkzV",
 			"fillStyle": "solid",
@@ -2306,7 +2316,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232804,
+			"updated": 1703313387935,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2410,12 +2420,12 @@ Underhollow ^Xb3rswON
 			"containerId": "5DWSaLLTAN1BJIMtggsNc",
 			"originalText": "Find orders to steal\ncreature in wagon",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 61,
-			"versionNonce": 1875132254,
+			"version": 64,
+			"versionNonce": 1125836878,
 			"isDeleted": false,
 			"id": "mHVHpEbCIHM1lsYrr0Rkl",
 			"fillStyle": "solid",
@@ -2437,7 +2447,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232806,
+			"updated": 1703313387940,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2529,12 +2539,12 @@ Underhollow ^Xb3rswON
 			"containerId": "qAxu5hRTYhkbLjusuL6xh",
 			"originalText": "Take new wheel\nto wagon",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 246,
-			"versionNonce": 243494210,
+			"version": 252,
+			"versionNonce": 1081388686,
 			"isDeleted": false,
 			"id": "hSIpTBxpBg-WNyF5OyEiq",
 			"fillStyle": "solid",
@@ -2556,7 +2566,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232806,
+			"updated": 1703313387940,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2664,7 +2674,7 @@ Underhollow ^Xb3rswON
 			"containerId": "3LZzuOBtv8iT6l8jk6g0F",
 			"originalText": "Andoran Village",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
@@ -2787,7 +2797,7 @@ Underhollow ^Xb3rswON
 			"containerId": "PeN6_XdryAG5m-jf8xacG",
 			"originalText": "Carnival of\nCarnage",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "ellipse",
@@ -2858,12 +2868,12 @@ Underhollow ^Xb3rswON
 			"containerId": "JGF7n3V91wjAKK8J1iEwZ",
 			"originalText": "Underdale",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 75,
-			"versionNonce": 1609153602,
+			"version": 78,
+			"versionNonce": 813299598,
 			"isDeleted": false,
 			"id": "U6WQyBslhi-XCi8lwF1XL",
 			"fillStyle": "solid",
@@ -2885,7 +2895,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232807,
+			"updated": 1703313387957,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2985,12 +2995,12 @@ Underhollow ^Xb3rswON
 			"containerId": "d2Swn_X0ETIx0ItQ3d1wm",
 			"originalText": "Graveyard",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 149,
-			"versionNonce": 1728369950,
+			"version": 161,
+			"versionNonce": 756018190,
 			"isDeleted": false,
 			"id": "iATvuaPa-Z5K9RqXdSKwf",
 			"fillStyle": "solid",
@@ -3012,7 +3022,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232808,
+			"updated": 1703313387967,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3108,7 +3118,7 @@ Underhollow ^Xb3rswON
 			"containerId": "QXih24Vc20NAtl-Zt_WPC",
 			"originalText": "Begin",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -3187,7 +3197,7 @@ Underhollow ^Xb3rswON
 			"containerId": "oYwcVeYNn5JjpYQU_X401",
 			"originalText": "Attacked by\n\"Pirate Wizard\"",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -3262,7 +3272,7 @@ Underhollow ^Xb3rswON
 			"containerId": "qEmrIv99qfifIjIYFH3Gt",
 			"originalText": "Run into Storm\nand capsized",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -3345,7 +3355,7 @@ Underhollow ^Xb3rswON
 			"containerId": "ZW6rdtugKubAJAlmoYZbN",
 			"originalText": "Meets Lady Jamilla\nof Sabiya",
 			"lineHeight": 1.25,
-			"baseline": 68
+			"baseline": 67
 		},
 		{
 			"type": "rectangle",
@@ -3432,7 +3442,7 @@ Underhollow ^Xb3rswON
 			"containerId": "qdFzD8ZNGoQGuP6S7wMso",
 			"originalText": "Uncover precious cargo",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -3511,7 +3521,7 @@ Underhollow ^Xb3rswON
 			"containerId": "2zKV5SvLZhzm3a82cabpu",
 			"originalText": "Tarn",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -3594,12 +3604,12 @@ Underhollow ^Xb3rswON
 			"containerId": "7fjD9MaG5hwNEL8jizOBQ",
 			"originalText": "Sabiya",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 99,
-			"versionNonce": 1030177282,
+			"version": 102,
+			"versionNonce": 1955805774,
 			"isDeleted": false,
 			"id": "CzYOYxSOclq7_Y6aDBaFv",
 			"fillStyle": "solid",
@@ -3621,7 +3631,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232810,
+			"updated": 1703313387976,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3646,8 +3656,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 107,
-			"versionNonce": 556226334,
+			"version": 119,
+			"versionNonce": 617248014,
 			"isDeleted": false,
 			"id": "UGm4lAE_rFPy2537ygQJG",
 			"fillStyle": "solid",
@@ -3669,7 +3679,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232810,
+			"updated": 1703313387984,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3698,8 +3708,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 57,
-			"versionNonce": 1760801218,
+			"version": 60,
+			"versionNonce": 51560590,
 			"isDeleted": false,
 			"id": "UwFTXM_g9X8TZ7g8URHil",
 			"fillStyle": "solid",
@@ -3721,7 +3731,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232810,
+			"updated": 1703313387977,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3746,8 +3756,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 41,
-			"versionNonce": 380289886,
+			"version": 44,
+			"versionNonce": 102015822,
 			"isDeleted": false,
 			"id": "MqtVY4ZTnAMlCHFqSDC6n",
 			"fillStyle": "solid",
@@ -3769,7 +3779,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232810,
+			"updated": 1703313387990,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3794,8 +3804,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 98,
-			"versionNonce": 282864002,
+			"version": 110,
+			"versionNonce": 419353230,
 			"isDeleted": false,
 			"id": "DaL-p-eFYSKoQhZGshGZ4",
 			"fillStyle": "solid",
@@ -3817,7 +3827,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232811,
+			"updated": 1703313388000,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3846,8 +3856,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 274,
-			"versionNonce": 427206558,
+			"version": 280,
+			"versionNonce": 1517846030,
 			"isDeleted": false,
 			"id": "GrbRoJ3wkd_-G9CfJaPk5",
 			"fillStyle": "solid",
@@ -3869,7 +3879,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232811,
+			"updated": 1703313387992,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3973,7 +3983,7 @@ Underhollow ^Xb3rswON
 			"containerId": "St2PgGzFPCjgvNWdmt4e2",
 			"originalText": "Ringstead Farm",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -4048,7 +4058,7 @@ Underhollow ^Xb3rswON
 			"containerId": "uMDN3rTkYHLOdrLFIQR9Q",
 			"originalText": "Oakmug",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -4123,7 +4133,7 @@ Underhollow ^Xb3rswON
 			"containerId": "QDtcpo66_dAYul3y2j8-b",
 			"originalText": "Undai Mines",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -4160,12 +4170,12 @@ Underhollow ^Xb3rswON
 			"containerId": null,
 			"originalText": "Possible Side Quests",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 221,
-			"versionNonce": 1366223006,
+			"version": 224,
+			"versionNonce": 2128695502,
 			"isDeleted": false,
 			"id": "d59Y1WxgD6M91SEXd_s-V",
 			"fillStyle": "solid",
@@ -4187,7 +4197,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232812,
+			"updated": 1703313388001,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4216,8 +4226,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 1875376194,
+			"version": 115,
+			"versionNonce": 96290638,
 			"isDeleted": false,
 			"id": "J1cDWO6ZU9utoC2GPrRc-",
 			"fillStyle": "solid",
@@ -4239,7 +4249,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232812,
+			"updated": 1703313388030,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4272,8 +4282,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 169,
-			"versionNonce": 1258562782,
+			"version": 172,
+			"versionNonce": 635565390,
 			"isDeleted": false,
 			"id": "igIXrmTwR3o5WrGfNVsHl",
 			"fillStyle": "solid",
@@ -4295,7 +4305,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232812,
+			"updated": 1703313388003,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4395,7 +4405,7 @@ Underhollow ^Xb3rswON
 			"containerId": "GBnfCLLmJ5NsECEnPBcqP",
 			"originalText": "Deep in the Vale\n(QoD1)",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -4466,7 +4476,7 @@ Underhollow ^Xb3rswON
 			"containerId": "SPdKTHybMgZphnU6OVkQh",
 			"originalText": "Clear out Kobolds",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -4541,7 +4551,7 @@ Underhollow ^Xb3rswON
 			"containerId": "4y9ERiplOXl4vCTx0xvNF",
 			"originalText": "In the Heart of the Forest",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -4612,12 +4622,12 @@ Underhollow ^Xb3rswON
 			"containerId": "D9m0lwh5bE4AuHx5MRuxo",
 			"originalText": "Track down dwarf",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 73,
-			"versionNonce": 800755458,
+			"version": 79,
+			"versionNonce": 168971214,
 			"isDeleted": false,
 			"id": "a4_Ok3mf75JthsgxRGitG",
 			"fillStyle": "solid",
@@ -4639,7 +4649,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232814,
+			"updated": 1703313388037,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4668,8 +4678,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 158,
-			"versionNonce": 708532766,
+			"version": 161,
+			"versionNonce": 819075982,
 			"isDeleted": false,
 			"id": "zcuJd_Z1eoYtX5a7hdoeL",
 			"fillStyle": "solid",
@@ -4691,7 +4701,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232814,
+			"updated": 1703313388009,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4720,8 +4730,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 119,
-			"versionNonce": 760569538,
+			"version": 122,
+			"versionNonce": 162767374,
 			"isDeleted": false,
 			"id": "_AG8BJQrhXSZDN9yqnMw8",
 			"fillStyle": "solid",
@@ -4743,7 +4753,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232814,
+			"updated": 1703313388054,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4772,8 +4782,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "rectangle",
-			"version": 903,
-			"versionNonce": 71722590,
+			"version": 906,
+			"versionNonce": 793784398,
 			"isDeleted": false,
 			"id": "NcgibV0cEWSo5gOTDZsSl",
 			"fillStyle": "solid",
@@ -4782,7 +4792,7 @@ Underhollow ^Xb3rswON
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 981.1695046439612,
+			"x": 981.1695046439611,
 			"y": -159.01857764654454,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
@@ -4804,14 +4814,14 @@ Underhollow ^Xb3rswON
 					"type": "arrow"
 				}
 			],
-			"updated": 1703138232814,
+			"updated": 1703313388065,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 953,
-			"versionNonce": 377501314,
+			"version": 956,
+			"versionNonce": 1860381454,
 			"isDeleted": false,
 			"id": "WBMXnOI0",
 			"fillStyle": "solid",
@@ -4820,7 +4830,7 @@ Underhollow ^Xb3rswON
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1010.5454385716093,
+			"x": 1010.5454385716092,
 			"y": -154.01857764654454,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
@@ -4831,7 +4841,7 @@ Underhollow ^Xb3rswON
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703138232815,
+			"updated": 1703313388074,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4843,12 +4853,12 @@ Underhollow ^Xb3rswON
 			"containerId": "NcgibV0cEWSo5gOTDZsSl",
 			"originalText": "Find Airship\nPilot",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 62,
-			"versionNonce": 967174814,
+			"version": 65,
+			"versionNonce": 795048398,
 			"isDeleted": false,
 			"id": "uW8FZxhtumKU1AfYnWP3Q",
 			"fillStyle": "solid",
@@ -4870,7 +4880,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232815,
+			"updated": 1703313388010,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4895,8 +4905,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 73,
-			"versionNonce": 200939074,
+			"version": 85,
+			"versionNonce": 952038606,
 			"isDeleted": false,
 			"id": "9nTpsrszaxLNlK5OYJcRc",
 			"fillStyle": "solid",
@@ -4918,7 +4928,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232815,
+			"updated": 1703313388069,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5179,7 +5189,7 @@ Underhollow ^Xb3rswON
 			"containerId": "EBPxM0jX_gOLaskAjeFRr",
 			"originalText": "A Strange Spring\nHas Sprung",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -5254,12 +5264,12 @@ Underhollow ^Xb3rswON
 			"containerId": "qAVmtTBsL7jqwM_DMpQEi",
 			"originalText": "Underhollow",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 75,
-			"versionNonce": 316271874,
+			"version": 87,
+			"versionNonce": 1784823694,
 			"isDeleted": false,
 			"id": "CL6I6CgCbdQ0At-ViVeq9",
 			"fillStyle": "solid",
@@ -5281,7 +5291,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232816,
+			"updated": 1703313388080,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5310,8 +5320,8 @@ Underhollow ^Xb3rswON
 		},
 		{
 			"type": "arrow",
-			"version": 71,
-			"versionNonce": 298376222,
+			"version": 74,
+			"versionNonce": 1974966542,
 			"isDeleted": false,
 			"id": "mYLlmLtpple1VfT0AZwm0",
 			"fillStyle": "solid",
@@ -5333,7 +5343,7 @@ Underhollow ^Xb3rswON
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1703138232817,
+			"updated": 1703313388020,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5357,43 +5367,91 @@ Underhollow ^Xb3rswON
 			]
 		},
 		{
-			"id": "pd19abQ6",
-			"type": "text",
-			"x": -319.52941176470597,
-			"y": -601.9411764705883,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e9ecef",
+			"type": "diamond",
+			"version": 734,
+			"versionNonce": 1754327822,
+			"isDeleted": false,
+			"id": "BjY2uqxgnuHcaSjZS203g",
 			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -528.7848333605987,
+			"y": -356.47518513052637,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#ff0000",
+			"width": 28.250000000000007,
+			"height": 28.250000000000007,
+			"seed": 771492178,
+			"groupIds": [
+				"9JhGpu2KnRB2JbIhD9SCo"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1703313276409,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 90,
+			"versionNonce": 910909390,
+			"isDeleted": false,
+			"id": "McGRd0d0bh3ORJ9E5rCFo",
+			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
 			"strokeStyle": "dashed",
 			"roughness": 1,
 			"opacity": 100,
-			"groupIds": [
-				"A5HABIbh2Z02laVaKS_Jw"
-			],
+			"angle": 0,
+			"x": -305.1213530420888,
+			"y": -202.0425209929059,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ff0000",
+			"width": 385.8462289663461,
+			"height": 97.84616323617786,
+			"seed": 597688206,
+			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"seed": 247651614,
-			"version": 2,
-			"versionNonce": 2050706178,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1703138238823,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1703313387890,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "XhScpVXcV02x1EG5SXuCB",
-			"originalText": "",
-			"lineHeight": 1.25
+			"startBinding": {
+				"elementId": "ee4QWTlC",
+				"gap": 3.128646957911201,
+				"focus": 0.06477133386240078
+			},
+			"endBinding": {
+				"elementId": "XbkEBG8fmcNq91m_aDMD1",
+				"gap": 3.111315770916235,
+				"focus": 0.260399204803358
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					339.6923828124999,
+					-18.461538461538453
+				],
+				[
+					385.8462289663461,
+					-97.84616323617786
+				]
+			]
 		}
 	],
 	"appState": {
@@ -5411,10 +5469,10 @@ Underhollow ^Xb3rswON
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 869.6280468802545,
-		"scrollY": 820.0279841802029,
+		"scrollX": 715.403806683602,
+		"scrollY": 810.2414861662276,
 		"zoom": {
-			"value": 0.9000000000000004
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

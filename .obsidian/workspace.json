@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5088a0db5dcf3c6",
+        "id": "a2c988650cee6405",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1e032976e96cce",
+            "id": "b9a43df71cf1b789",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,66 +18,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "conditions",
+                  "title": "Introduction (Adventure Hook)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules/conditions.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":9}"
-                },
-                {
-                  "title": "DM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"0. DM Screen/0. DM Screen.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conditions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rules/conditions.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "DM Screen",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"0. DM Screen/0. DM Screen.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Test Character",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Test Character.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "0. DM Screen/0. DM Screen.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c45bce6005a64ac0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Campaign Flow Chart",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Campaign Flow Chart",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.png\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -85,13 +28,153 @@
                   "icon": "excalidraw-icon",
                   "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.md\"}}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Appendix C - Statblocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "assassin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"compendium/bestiary/humanoid/assassin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Statblock Test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Statblock Test.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Commands Reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Callouts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Callouts.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0.6275229672773168}"
+                },
+                {
+                  "title": "Char Sheet Test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Char Sheet Test.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Test Character",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Characters/Test Character.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}}}",
+                  "eState": "{}"
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Flow Charts/Campaign Flow Chart.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e2bdb381c35efe5c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Maps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Maps.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":10.079470198675496}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":5.34965034965035}"
+                },
+                {
+                  "title": "Commands Reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":15},\"to\":{\"line\":7,\"ch\":15}},\"scroll\":10.303546761534006}"
+                },
+                {
+                  "title": "Utorim",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Utorim/Utorim.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":10.101694915254237}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Regions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bcb049da7e4e5a6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Scratch Notes/Callouts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -143,7 +226,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resistance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -190,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 241.5062484741211
   },
   "right": {
     "id": "c64c209dadab26ed",
@@ -235,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. World Almanac/World/Maps/Utorim/Underdale.jpg",
+                "file": "1. World Almanac/World/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,26 +396,9 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          },
-          {
-            "id": "f0449e3127e3a8f5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "custom-frames-testcharactersheet",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "fa1be9480bb07e6f",
@@ -364,7 +430,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open FastNPCPic": false,
+      "obsidian-custom-frames:Open NPCGenerator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -382,52 +448,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4f144ab050d689bc",
+  "active": "e2bdb381c35efe5c",
   "lastOpenFiles": [
     "1. World Almanac/World/Maps/Maps.md",
-    "1. World Almanac/World/Maps/old/old.md",
-    "1. World Almanac/World/Maps/Utorim",
-    "1. World Almanac/World/Maps/Utorim/Utorim.png",
-    "z_Assets/Images/Port Gisahl.jpg",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
-    "1. World Almanac/World/Maps/Utorim/Underdale.jpg",
-    "z_Assets/Attachments.md",
-    "Flow Charts/Campaign Flow Chart.md",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix A - Magic Items.md",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix D - Ecology of the Phase Spider.md",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
-    "Flow Charts/Campaign Flow Chart.png",
-    "5e SRD/06. Abilities.md",
-    "0. DM Screen/0. DM Screen.md",
-    "5e SRD/00. 5e SRD.md",
-    "rules/actions.md",
-    "rules/skills.md",
-    "compendium/bestiary/beast/beast.md",
-    "compendium/bestiary/beast/ape.md",
+    "1. World Almanac/World/Regions.md",
+    "1. World Almanac/Modules/Introduction (Adventure Hook).md",
     "0. Scratch Notes/Commands Reference.md",
+    "z_Assets/Images/Icons",
+    "1. World Almanac/World/Maps/Utorim/Utorim.png",
+    "0. Scratch Notes/Callouts.md",
+    "Flow Charts/Campaign Flow Chart.md",
+    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
+    "compendium/bestiary/humanoid/assassin.md",
+    "0. Scratch Notes/Statblock Test.md",
+    "0. Scratch Notes/Char Sheet Test.md",
+    "0. DM Screen/DM Screen Data",
+    "1. The Party/Characters/Test Character.md",
+    "1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas",
+    "5e SRD/02. Classes.md",
+    "1. The Party/Characters/Ulfgar Caskborn/Ulfgar Caskborn - Data.md",
+    "5e SRD/00. 5e SRD.md",
+    "Image.png.md",
+    "z_Format Reference.md",
+    "1. The Party/Characters/Ulfgar Caskborn/Ulfgar Caskborn.md",
+    "0. DM Screen/DM Screen Data/Character Generator.md",
+    "0. DM Screen/0. DM Screen.md",
+    "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
+    "z_Assets/Attachments.md",
+    "z_Assets/Images/Char Sheet Images",
+    "1. The Party/Characters/Ulfgar Caskborn",
+    "Attachments",
+    "compendium/classes/barbarian.md",
+    "compendium/classes/classes.md",
+    "rules/actions.md",
+    "1. The Party/Characters",
+    "Test Canvas.canvas",
+    "5e SRD/08. Combat.md",
+    "compendium/backgrounds/acolyte.md",
+    "1. World Almanac/World/Maps/Utorim",
+    "z_Assets/Images/Port Gisahl.jpg",
+    "1. World Almanac/World/Maps/Utorim/Underdale.jpg",
+    "Flow Charts/Campaign Flow Chart.png",
     "z_Assets/Images/Condition Cards/Deafened.png",
     "z_Assets/Images/Condition Cards/Frightened.png",
-    "0. DM Screen/Character Generator.md",
-    "0. DM Screen/NPC Generator.md",
-    "1. The Party/Test Character.md",
-    "z_Format Reference.md",
     "z_Assets/Images/Frozen Griffon.jpg",
-    "rules/conditions.md",
     "z_Assets/Images/Condition Cards/Unconscious.png",
     "z_Assets/Images/Condition Cards/Paralyzed.png",
-    "z_Assets/Images/Condition Cards/Invisible.png",
     "z_Assets/Images/Condition Cards",
-    "1. World Almanac/Modules/Introduction (Adventure Hook).md",
-    "compendium/tables/ability-checks-typical-difficulty-classes.md",
-    "compendium/races/races.md",
-    "compendium/races/elf.md",
     "desktop.ini",
-    "5e SRD/Spells/Wizard Spells",
-    "5e SRD/Spells/Warlock Spells",
-    "5e SRD/Spells/Sorcerer Spells",
-    "5e SRD/Spells/Ranger Spells",
-    "5e SRD/Spells/Paladin Spells",
-    "5e SRD/Spells/Druid Spells",
-    "5e SRD/Spells/Cleric Spells"
+    "5e SRD/Spells/Wizard Spells"
   ]
 }

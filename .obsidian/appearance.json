@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "S - Checkboxes",
@@ -18,9 +18,12 @@
     "compendium-obsidian-0.15",
     "dnd5e-compendium",
     "dnd5e-only-statblock",
-    "dnd5e-only-admonitions"
+    "dnd5e-only-admonitions",
+    "S - Callouts",
+    "Theme - All Alternate Themes"
   ],
-  "translucency": false,
+  "translucency": true,
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "textFontFamily": "Arial,Verdana"
 }
