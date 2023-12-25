@@ -25,5 +25,6 @@
   ],
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showInlineTitle": false
 }

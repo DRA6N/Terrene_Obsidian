@@ -17,11 +17,11 @@
     "iconPacksPath": ".obsidian/icons",
     "emojiStyle": "twemoji",
     "recentlyUsedIcons": [
+      "FarChartBar",
       "RiGlobeFill",
       "FasBookSkull",
       "RaFire",
-      "FasInfo",
-      "FasDiceD20"
+      "FasInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,7 +40,6 @@
   "1. World Almanac": "RiGlobeFill",
   "2. Mechanics": "FasGear",
   "2. Session Journals": "FarNewspaper",
-  "Flow Charts": "FasChartBar",
   "z_Format Reference.md": "FasInfo",
   "0. Scratch Notes": "RiStickyNoteFill",
   "0. DM Screen": "RaCastleFlag",
@@ -49,5 +48,7 @@
   "5e SRD/00. 5e SRD.md": "FasInfo",
   "About the Campaign.md": "FasInfo",
   "compendium": "FasBookSkull",
-  "0. DM Screen/0. DM Screen.md": "RaCastleFlag"
+  "0. DM Screen/0. DM Screen.md": "RaCastleFlag",
+  "Flow Charts": "FarChartBar",
+  "1. World Almanac/World/Deities/Deities.md": "FasInfo"
 }

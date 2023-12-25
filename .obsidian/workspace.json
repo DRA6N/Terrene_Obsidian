@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9a43df71cf1b789",
+            "id": "32a328db0f725fe2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,168 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Introduction (Adventure Hook)",
+                  "title": "Deities Data",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Deities/Deities Data.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Campaign Flow Chart",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Appendix C - Statblocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "assassin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"compendium/bestiary/humanoid/assassin.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Statblock Test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Statblock Test.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Commands Reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Callouts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Callouts.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0.6275229672773168}"
-                },
-                {
-                  "title": "Char Sheet Test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Char Sheet Test.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Test Character",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Characters/Test Character.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-layout-dashboard",
-                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Flow Charts/Campaign Flow Chart.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e2bdb381c35efe5c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Maps",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Maps.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":10.079470198675496}"
-                },
-                {
-                  "title": "Regions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":5.34965034965035}"
-                },
-                {
-                  "title": "Commands Reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Regions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":15},\"to\":{\"line\":7,\"ch\":15}},\"scroll\":10.303546761534006}"
-                },
-                {
-                  "title": "Utorim",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Utorim/Utorim.png\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":10.101694915254237}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Regions.md",
+                "file": "2. Mechanics/Races/Dhampir.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3bcb049da7e4e5a6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Scratch Notes/Callouts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,6 +137,7 @@
       {
         "id": "e25458b98cb4f70a",
         "type": "tabs",
+        "dimension": 39.26470588235294,
         "children": [
           {
             "id": "6a122d018b5b3b50",
@@ -304,7 +160,7 @@
             }
           },
           {
-            "id": "b74393d7e94628e5",
+            "id": "a981d257db08e10b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -312,100 +168,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Deities",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Deities/Deities.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":2.013245033112583}"
                 }
               ]
             },
             "state": {
-              "type": "backlink",
+              "type": "excalidraw",
               "state": {
-                "file": "1. World Almanac/World/Regions.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Flow Charts/Campaign Flow Chart.md"
               }
-            }
-          },
-          {
-            "id": "1e7192d0d4f183c3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "90971a9592d7edad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "0bf7932a64f35110",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "60e150a0ca5a3348",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "fa1be9480bb07e6f",
+        "id": "5af8190d7f049011",
         "type": "tabs",
+        "dimension": 60.73529411764706,
         "children": [
           {
-            "id": "b10f2a7a7d427de7",
+            "id": "221064cd8d626a68",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -417,7 +205,7 @@
               ]
             },
             "state": {
-              "type": "graph",
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -443,21 +231,41 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-custom-frames:Open TestCharacterSheet": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e2bdb381c35efe5c",
+  "active": "32a328db0f725fe2",
   "lastOpenFiles": [
-    "1. World Almanac/World/Maps/Maps.md",
+    "z_Assets/Images/Race Images/dhampir.jpg",
+    "z_Assets/Images/Race Images",
+    "z_Assets/Images/New folder",
+    "1. World Almanac/World/Deities/Deities Data.md",
+    "2. Mechanics/Races/Dhampir.md",
+    "2. Mechanics/Races",
+    "0. Scratch Notes/Callouts.md",
+    "About the Campaign.md",
+    "1. World Almanac/World/Deities/Deities.md",
+    "Flow Charts/Campaign Flow Chart.md",
+    "z_Assets/Images/Deity Images/umberlee.png",
+    "z_Assets/Images/Deity Images/tyr.png",
+    "z_Assets/Images/Deity Images/tymora.png",
+    "z_Assets/Images/Deity Images/torm.png",
+    "z_Assets/Images/Deity Images/tempus.png",
+    "z_Assets/Images/Deity Images/talos.png",
+    "z_Assets/Images/Deity Images/sune.png",
+    "z_Assets/Images/Deity Images/silvanus.png",
+    "z_Assets/Images/Deity Images/shar.png",
+    "z_Assets/Images/Deity Images/slune.png",
+    "z_Assets/Images/Deity Images",
     "1. World Almanac/World/Regions.md",
+    "1. World Almanac/World/Deities",
+    "1. World Almanac/World/Maps/Maps.md",
     "1. World Almanac/Modules/Introduction (Adventure Hook).md",
     "0. Scratch Notes/Commands Reference.md",
     "z_Assets/Images/Icons",
-    "1. World Almanac/World/Maps/Utorim/Utorim.png",
-    "0. Scratch Notes/Callouts.md",
-    "Flow Charts/Campaign Flow Chart.md",
     "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
     "compendium/bestiary/humanoid/assassin.md",
     "0. Scratch Notes/Statblock Test.md",
@@ -473,29 +281,11 @@
     "1. The Party/Characters/Ulfgar Caskborn/Ulfgar Caskborn.md",
     "0. DM Screen/DM Screen Data/Character Generator.md",
     "0. DM Screen/0. DM Screen.md",
-    "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
     "z_Assets/Attachments.md",
     "z_Assets/Images/Char Sheet Images",
     "1. The Party/Characters/Ulfgar Caskborn",
     "Attachments",
     "compendium/classes/barbarian.md",
-    "compendium/classes/classes.md",
-    "rules/actions.md",
-    "1. The Party/Characters",
-    "Test Canvas.canvas",
-    "5e SRD/08. Combat.md",
-    "compendium/backgrounds/acolyte.md",
-    "1. World Almanac/World/Maps/Utorim",
-    "z_Assets/Images/Port Gisahl.jpg",
-    "1. World Almanac/World/Maps/Utorim/Underdale.jpg",
-    "Flow Charts/Campaign Flow Chart.png",
-    "z_Assets/Images/Condition Cards/Deafened.png",
-    "z_Assets/Images/Condition Cards/Frightened.png",
-    "z_Assets/Images/Frozen Griffon.jpg",
-    "z_Assets/Images/Condition Cards/Unconscious.png",
-    "z_Assets/Images/Condition Cards/Paralyzed.png",
-    "z_Assets/Images/Condition Cards",
-    "desktop.ini",
-    "5e SRD/Spells/Wizard Spells"
+    "Test Canvas.canvas"
   ]
 }

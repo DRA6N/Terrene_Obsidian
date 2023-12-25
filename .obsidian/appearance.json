@@ -22,7 +22,7 @@
     "S - Callouts",
     "Theme - All Alternate Themes"
   ],
-  "translucency": true,
+  "translucency": false,
   "theme": "obsidian",
   "accentColor": "",
   "textFontFamily": "Arial,Verdana"
