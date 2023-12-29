@@ -1,3 +1,8 @@
 {
-  "ITS@@kanban-boxed": false
+  "ITS@@kanban-boxed": false,
+  "ITS@@background-image": false,
+  "ITS@@file-explorer-flat": false,
+  "ITS@@navbar-bottom": true,
+  "ITS@@radius-s": 0,
+  "ITS@@scrollbar-width": 12
 }

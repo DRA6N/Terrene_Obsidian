@@ -70,7 +70,7 @@ https://yoksel.github.io/url-encoder/
 /*Color Sub Folder Lines*/
 .nav-folder-title[data-path*="Sewers and Spiders (2-4)"],.nav-folder-title[data-path*="Sewers and Spiders (2-4)"] + .nav-folder-children,.nav-file-title[data-path*=""] {background: #4e0002;}
 .nav-folder-title[data-path*="Attachments"],.nav-folder-title[data-path*="Attachments"] + .nav-folder-children,.nav-file-title[data-path*=""] {color: black; background: #9b6200; border-bottom: 2px solid var(--c2);}
-.nav-folder-title[data-path*="Flow Charts"],.nav-folder-title[data-path*="Flow Charts"] + .nav-folder-children,.nav-file-title[data-path*=""] {background: #505050;}
+/*.nav-folder-title[data-path*="Flow Charts"],.nav-folder-title[data-path*="Flow Charts"] + .nav-folder-children,.nav-file-title[data-path*=""] {background: #505050;}
 /*Change Folder Icon Color */
 .nav-folder-title[data-path*="Adventures"] .nav-folder-title-content::before { color: black; }
 .nav-folder-title[data-path*="Attachments"] .nav-folder-title-content::before { color: black; }

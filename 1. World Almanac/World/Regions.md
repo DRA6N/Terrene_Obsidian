@@ -17,51 +17,51 @@ Below are the regions of the world of Terrene
 ## Utorim Locations
 <span style="color:#ffc000">:RaCastleFlag: </span>- Denotes Kingdom
 
-| Location         | Description |
-| ---------------- | ----------- |
-| |   |   |
-|Ammath|A large city on a peninsula|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Andovar Keep|The kingdom of Andovar|
-|Athas|A town|
-|Bardford|A town|
-|Baymount|A town|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Camarilla|The kingdom of Camarilla|
-|Charsbrad Harbor|A small harbor town near Mt. Scoria|
-|Damerel|A town|
-|Eastmill|A village|
-|Elredd|A village|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Innsgar|The kingdom of Innsgar|
-|Iron Falls|A village|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Kog Darahl|The dwarven kingdom of Kog Darahl|
-|Kragskul|A small mountain town|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Krommanthor|The kingdom of Krommanthor|
-|Lunaris|A town|
-|Mt. Scoria|An active volcano|
-|Myranna|A small town north of Mt. Scoria|
-|Oakmug|A town|
-|Oberoten|A city|
-|Oldwyn|A town|
-|Port Chad|A small coastal village|
-|Port Gisahl|A port on the southern end of Utorm, used for trade routes.|
-|Ravenholde|A city|
-|Riverdell|A town|
-|River’s End|A town near a river|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Sabiya|The kingdom of Sabiya|
-|Sagus|A village|
-|Skargorm|A small town on a costal island|
-|Southrend|The frozen wasteland on the southern-most tip of the world|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Stockhelm|The kingdom of Stockhelm|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Stormhorne|The kingdom of Stormhorne|
-|Sunndi|A town|
-|Tarn|A city|
-|The EverNorth|The frozen mountains of northern Utorim|
-|The Maelstrom|A massive storm created by the ascension of a floating island known as the Shaard|
-|The Spine|A mountainous landscape long the cost of Mt. Scoria|
-|Underdale|A small town on an island, used for trade routes.|
-|Vadsterlanda|A bustling town in the Sabiyan Desert|
-|Wayford|A small town along the southwestern coast of Utorim|
-|<span style="color:#ffc000">:RaCastleFlag:</span>Westwick|The kingdom of Westwick|
-|Xi|A small oriental village on an island south of Mt. Scoria|
+| Location | Description |
+| ---- | ---- |
+|  |  |
+| Ammath | A large city on a peninsula |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Andovar Keep | The kingdom of Andovar |
+| Athas | A town |
+| Bardford | A town |
+| Baymount | A town |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Camarilla | The kingdom of Camarilla |
+| Charsbrad Harbor | A small harbor town near Mt. Scoria |
+| Damerel | A town |
+| Eastmill | A village |
+| Elredd | A village |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Innsgar | The kingdom of Innsgar |
+| Iron Falls | A village |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Kog Darahl | The dwarven kingdom of Kog Darahl |
+| Kragskul | A small mountain town |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Krommanthor | The kingdom of Krommanthor |
+| Lunaris | A town |
+| Mt. Scoria | An active volcano |
+| Myranna | A small town north of Mt. Scoria |
+| Oakmug | A town |
+| Oberoten | A city |
+| Oldwyn | A town |
+| Port Chad | A small coastal village |
+| Port Gisahl | A port on the southern end of Utorm, used for trade routes. |
+| Ravenholde | A city |
+| Riverdell | A town |
+| River’s End | A town near a river |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Sabiya | The kingdom of Sabiya |
+| Sagus | A village |
+| Skargorm | A small town on a costal island |
+| Southrend | The frozen wasteland on the southern-most tip of the world |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Stockhelm | The kingdom of Stockhelm |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Stormhorne | The kingdom of Stormhorne |
+| Sunndi | A town |
+| Tarn | A city |
+| The EverNorth | The frozen mountains of northern Utorim |
+| The Maelstrom | A massive storm created by the ascension of a floating island known as the Shaard |
+| The Spine | A mountainous landscape long the cost of Mt. Scoria |
+| Underdale | A small town on an island, used for trade routes. |
+| Vadsterlanda | A bustling town in the Sabiyan Desert |
+| Wayford | A small town along the southwestern coast of Utorim |
+| <span style="color:#ffc000">:RaCastleFlag:</span>Westwick | The kingdom of Westwick |
+| Xi | A small oriental village on an island south of Mt. Scoria |
 
 ## Mortilis Locations
 | Location           | Description                                                                  |

@@ -8,26 +8,26 @@ In the vast tapestry of Terrene, dozens of deities weave their influence, once c
 
 These are the gods which came about after the dragon race had left Terrene.
 
-| Deity  | Alignment | Description|
-| ----------------------------------- | --------- | --------------------------------- |
-| [[Deities Data#Azuth\|Azuth]]       | LN        | god of wizards                    |     |     |     |
-| [[Deities Data#Bane\|Bane]]         | LE        | god of tyranny                    |     |     |     |
-| [[Deities Data#Chauntea\|Chauntea]] | NG        | goddess of agriculture            |     |     |     |
-| [[Deities Data#Cyric\|Cyric]]       | CE        | god of lies                       |     |     |     |
-| [[Deities Data#Helm\|Helm]]         | LN        | god of protection                 |     |     |     |
-| [[Deities Data#Ilmater\|Ilmater]]   | LG        | god of endurance                  |     |     |     |
-| [[Deities Data#Kelemvor\|Kelemvor]] | LN        | god of the dead                   |     |     |     |
-| [[Deities Data#Lathander\|Lathand]] | NG        | god of birth and renewall         |     |     |     |
-| [[Deities Data#Mystra\|Mystra]]     | NG        | goddess of magic                  |     |     |     |
-| [[Deities Data#Oghma\|Oghma]]       | N         | god of knowledge                  |     |     |     |
-| [[Deities Data#Selune\|Selune]]     | CG        | goddess of the moon               |     |     |     |
-| [[Deities Data#Shar\|Shar]]         | NE        | goddess of darkness and loss      |     |     |     |
-| [[Deities Data#Silvanus\|Silvanus]] | N         | god of wild nature                |     |     |     |
-| [[Deities Data#Sune\|Sune]]         | CG        | goddess of love and beauty        |     |     |     |
-| [[Deities Data#Talos\|Talos]]       | CE        | god of storms                     |     |     |     |
-| [[Deities Data#Tempus\|Tempus]]     | N         | god of war                        |     |     |     |
-| [[Deities Data#Torm\|Torm]]         | LG        | god of courage and self-sacrifice |     |     |     |
-| [[Deities Data#Tymora\|Tymora]]     | CG        | goddess of good fortune           |     |     |     |
-| [[Deities Data#Tyr\|Tyr]]           | LG        | god of justice                    |     |     |     |
-| [[Deities Data#Umberlee\|Umberlee]] | CE        | goddess of the sea                |     |     |     |
+| Deity | Alignment | Description |
+| ---- | ---- | ---- |
+| [[Deities Data#Azuth\|Azuth]] | LN | god of wizards |
+| [[Deities Data#Bane\|Bane]] | LE | god of tyranny |
+| [[Deities Data#Chauntea\|Chauntea]] | NG | goddess of agriculture |
+| [[Deities Data#Cyric\|Cyric]] | CE | god of lies |
+| [[Deities Data#Helm\|Helm]] | LN | god of protection |
+| [[Deities Data#Ilmater\|Ilmater]] | LG | god of endurance |
+| [[Deities Data#Kelemvor\|Kelemvor]] | LN | god of the dead |
+| [[Deities Data#Lathander\|Lathand]] | NG | god of birth and renewall |
+| [[Deities Data#Mystra\|Mystra]] | NG | goddess of magic |
+| [[Deities Data#Oghma\|Oghma]] | N | god of knowledge |
+| [[Deities Data#Selune\|Selune]] | CG | goddess of the moon |
+| [[Deities Data#Shar\|Shar]] | NE | goddess of darkness and loss |
+| [[Deities Data#Silvanus\|Silvanus]] | N | god of wild nature |
+| [[Deities Data#Sune\|Sune]] | CG | goddess of love and beauty |
+| [[Deities Data#Talos\|Talos]] | CE | god of storms |
+| [[Deities Data#Tempus\|Tempus]] | N | god of war |
+| [[Deities Data#Torm\|Torm]] | LG | god of courage and self-sacrifice |
+| [[Deities Data#Tymora\|Tymora]] | CG | goddess of good fortune |
+| [[Deities Data#Tyr\|Tyr]] | LG | god of justice |
+| [[Deities Data#Umberlee\|Umberlee]] | CE | goddess of the sea |
 
