@@ -4,5 +4,8 @@
   "ITS@@file-explorer-flat": false,
   "ITS@@navbar-bottom": true,
   "ITS@@radius-s": 0,
-  "ITS@@scrollbar-width": 12
+  "ITS@@scrollbar-width": 12,
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "ITS@@file-line-width": 800,
+  "ITS@@tables-center": true
 }

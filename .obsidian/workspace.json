@@ -16,12 +16,160 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":8}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":8}},\"scroll\":3.8300907911802855}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":8}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":494},\"to\":{\"line\":2,\"ch\":494}}}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":20},\"to\":{\"line\":5,\"ch\":20}}}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Settlement Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":53.7689239646979}"
+                },
+                {
+                  "title": "Underdale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions/Utorim/Underdale.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":14.306954801400092}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":16.87421875}"
+                },
+                {
+                  "title": "Underdale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions/Utorim/Underdale.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Utorim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions/Utorim.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Settlement Template.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":33.964236588720766}"
+                },
+                {
+                  "title": "Utorim",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Utorim/Utorim.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Utorim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Maps/Utorim/Utorim.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "About the Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"About the Campaign.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":4.046511627906977}"
+                },
+                {
+                  "title": "Terrene_Banner",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Images/Terrene_Banner.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Regions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/World/Regions.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":8.48}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/World/Regions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +248,15 @@
           {
             "id": "7e0ddea5c310f1e9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
@@ -155,6 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. World Almanac/World/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,25 +443,33 @@
       "obsidian-custom-frames:Open TestCharacterSheet": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "534c2cf5bc503ac8",
+  "active": "4f144ab050d689bc",
   "lastOpenFiles": [
+    "1. World Almanac/World/Untitled.md",
+    "1. World Almanac/World/Regions.md",
+    "Templates/Settlement Template.md",
+    "1. World Almanac/World/Regions/Utorim/Underdale.md",
+    "1. World Almanac/World/Regions/Utorim",
+    "1. World Almanac/World/Regions/Utorim.md",
+    "1. World Almanac/World/Regions",
+    "1. World Almanac/World/Maps/Utorim/Utorim.png",
+    "1. World Almanac/World/Maps/Utorim/Utorim.md",
     "About the Campaign.md",
+    "z_Assets/Images/Terrene_Banner.png",
     "compendium/bestiary/monstrosity/bulette.md",
     "compendium/items/spell-scroll-cantrip.md",
     "5e SRD/00. 5e SRD.md",
     "Flow Charts/Campaign Flow Chart.md",
-    "Templates/Settlement Template.md",
     "0. Scratch Notes/Callouts.md",
     "0. DM Screen/0. DM Screen.md",
     "1. World Almanac/World/Maps/Terrene World Map.png",
     "z_Assets/Images/Condition Cards/Charmed.png",
     "0. Scratch Notes/Commands Reference.md",
     "1. World Almanac/World/Maps/Terrene_World_Regional.png",
-    "1. World Almanac/World/Maps/Utorim/Utorim.md",
-    "1. World Almanac/World/Maps/Utorim/Utorim.png",
     "0. DM Screen/DM Screen Data/Random_Spell_Scroll_Table_1.md",
     "0. DM Screen/DM Screen Data/Random Spell Scroll Generator.md",
     "2. Mechanics/Races/Dhampir.md",
@@ -313,7 +479,6 @@
     "Flow Charts/Carnival Flow Chart.svg",
     "Flow Charts",
     "Flow Charts",
-    "1. World Almanac/World/Regions.md",
     "1. World Almanac/World/Deities/Deities Data.md",
     "1. World Almanac/World/Deities/Deities.md",
     "z_Assets/Images/Race Images/dhampir.jpg",
@@ -323,20 +488,14 @@
     "z_Assets/Images/Deity Images/umberlee.png",
     "z_Assets/Images/Deity Images/tyr.png",
     "z_Assets/Images/Deity Images/tymora.png",
-    "z_Assets/Images/Deity Images/torm.png",
     "z_Assets/Images/Deity Images",
     "1. World Almanac/World/Deities",
     "1. World Almanac/World/Maps/Maps.md",
-    "z_Assets/Images/Icons",
     "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
     "compendium/bestiary/humanoid/assassin.md",
     "0. Scratch Notes/Statblock Test.md",
     "0. Scratch Notes/Char Sheet Test.md",
-    "0. DM Screen/DM Screen Data",
-    "1. The Party/Characters/Test Character.md",
     "1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas",
-    "5e SRD/02. Classes.md",
-    "1. The Party/Characters/Ulfgar Caskborn/Ulfgar Caskborn - Data.md",
     "Test Canvas.canvas"
   ]
 }
