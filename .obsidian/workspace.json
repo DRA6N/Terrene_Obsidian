@@ -4,17 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c1392745a036c7b5",
+        "id": "7f01731f5249ecb9",
         "type": "tabs",
         "children": [
           {
-            "id": "534c2cf5bc503ac8",
+            "id": "2322d64e7e1f3210",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":15.840910460057547}"
+                },
+                {
+                  "title": "A Most Potent Brew",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/A Most Potent Brew (1)/A Most Potent Brew.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":5.804045316190812}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. World Almanac/World/Regions/Regions.md",
-                "mode": "source",
+                "file": "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,6 +62,15 @@
           {
             "id": "4f144ab050d689bc",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -45,6 +81,15 @@
           {
             "id": "620d202942fe2f90",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -60,14 +105,32 @@
           {
             "id": "cba8dd6e73053544",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           },
           {
-            "id": "90416391dba6d52a",
+            "id": "7e0ddea5c310f1e9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
@@ -91,6 +154,15 @@
           {
             "id": "6a122d018b5b3b50",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -102,10 +174,19 @@
           {
             "id": "d6c67342cebd0a97",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. World Almanac/World/Regions/Regions.md",
+                "file": "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,29 +200,55 @@
           {
             "id": "74634b204005a665",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           },
           {
-            "id": "08404f9192b41973",
+            "id": "89983919ebaa11c8",
             "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "3122a7c072690e57",
-            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "98376152f5aca114",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b9a2e8c32d3b7cf8",
@@ -151,10 +258,39 @@
           {
             "id": "d6396f0ddc2cd6b4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Carnival Flow Chart",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"diagram\",\"state\":{\"file\":\"Flow Charts/Carnival Flow Chart.svg\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Campaign Flow Chart",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction (Adventure Hook)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":60},\"to\":{\"line\":39,\"ch\":60}},\"scroll\":32.76331018518518}"
+                }
+              ]
+            },
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "Flow Charts/Campaign Flow Chart.md"
+              },
               "pinned": true
             }
           }
@@ -167,69 +303,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open NPCGenerator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-custom-frames:Open TestCharacterSheet": false,
-      "obsidian-custom-frames:Open NPCGenerator": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open TestCharacterSheet": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "534c2cf5bc503ac8",
+  "active": "2322d64e7e1f3210",
   "lastOpenFiles": [
+    "z_Assets/Images/NPCs/Thandion Reeves.png",
+    "1. World Almanac/Modules/Introduction (Adventure Hook).md",
+    "1. World Almanac/Modules/A Most Potent Brew (1)/A Most Potent Brew.md",
+    "z_Assets/Images/NPCs",
+    "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
+    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
+    "0. Scratch Notes/Callouts.md",
+    "z_Format Reference.md",
+    "About the Campaign.md",
     "Flow Charts/Campaign Flow Chart.md",
     "1. World Almanac/World/Regions/Regions.md",
+    "1. World Almanac/World/Regions/The Shaard",
+    "1. World Almanac/World/Regions/Underhollow",
+    "1. World Almanac/World/Regions/Mortilis",
+    "1. World Almanac/World/Maps/Mortilis/Mortilis Map.jpg",
+    "1. World Almanac/World/Maps/The Shaard/The Shaard.jpg",
+    "1. World Almanac/World/Deities/Deities Data.md",
     "1. World Almanac/World/Regions/Utorim/Underdale.md",
-    "1. World Almanac/Modules/Introduction (Adventure Hook).md",
-    "1. World Almanac/World/Regions/Regions 1.md",
-    "Templates/Settlement Template.md",
+    "1. World Almanac/World/Maps/Terrene World Map.png",
+    "1. World Almanac/World/Regions.md",
     "1. World Almanac/World/Regions/Utorim",
-    "1. World Almanac/World/Regions/Utorim.md",
     "1. World Almanac/World/Regions",
-    "1. World Almanac/World/Maps/Utorim/Utorim.png",
-    "1. World Almanac/World/Maps/Utorim/Utorim.md",
-    "About the Campaign.md",
-    "z_Assets/Images/Terrene_Banner.png",
+    "1. World Almanac/World/Regions/Utorum/Underdale.md",
+    "1. World Almanac/World/Regions/Utorum",
+    "Templates/Settlement Template.md",
     "compendium/bestiary/monstrosity/bulette.md",
     "compendium/items/spell-scroll-cantrip.md",
     "5e SRD/00. 5e SRD.md",
-    "0. Scratch Notes/Callouts.md",
     "0. DM Screen/0. DM Screen.md",
-    "1. World Almanac/World/Maps/Terrene World Map.png",
     "z_Assets/Images/Condition Cards/Charmed.png",
     "0. Scratch Notes/Commands Reference.md",
     "1. World Almanac/World/Maps/Terrene_World_Regional.png",
+    "1. World Almanac/World/Maps/Utorim/Utorim.md",
+    "1. World Almanac/World/Maps/Utorim/Utorim.png",
     "0. DM Screen/DM Screen Data/Random_Spell_Scroll_Table_1.md",
     "0. DM Screen/DM Screen Data/Random Spell Scroll Generator.md",
     "2. Mechanics/Races/Dhampir.md",
     "Templates",
-    "1. World Almanac/Modules/A Most Potent Brew (1)/A Most Potent Brew.md",
     "Flow Charts/Carnival Flow Chart.svg",
     "Flow Charts",
     "Flow Charts",
-    "1. World Almanac/World/Deities/Deities Data.md",
     "1. World Almanac/World/Deities/Deities.md",
     "z_Assets/Images/Race Images/dhampir.jpg",
-    "z_Assets/Images/Race Images",
-    "z_Assets/Images/New folder",
-    "2. Mechanics/Races",
     "z_Assets/Images/Deity Images/umberlee.png",
-    "z_Assets/Images/Deity Images/tyr.png",
-    "z_Assets/Images/Deity Images/tymora.png",
-    "z_Assets/Images/Deity Images",
-    "1. World Almanac/World/Deities",
     "1. World Almanac/World/Maps/Maps.md",
     "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
-    "compendium/bestiary/humanoid/assassin.md",
-    "0. Scratch Notes/Statblock Test.md",
-    "0. Scratch Notes/Char Sheet Test.md",
     "1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas",
     "Test Canvas.canvas"
   ]

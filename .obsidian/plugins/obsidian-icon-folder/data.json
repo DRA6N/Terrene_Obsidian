@@ -17,11 +17,11 @@
     "iconPacksPath": ".obsidian/icons",
     "emojiStyle": "twemoji",
     "recentlyUsedIcons": [
-      "FasMapLocationDot",
-      "RiTreasureMapFill",
       "FasMap",
       "FarChartBar",
-      "RiGlobeFill"
+      "RiGlobeFill",
+      "FasBookSkull",
+      "RaFire"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,9 +49,5 @@
   "About the Campaign.md": "FasInfo",
   "compendium": "FasBookSkull",
   "0. DM Screen/0. DM Screen.md": "RaCastleFlag",
-  "1. World Almanac/World/Deities/Deities.md": "FasInfo",
-  "1. World Almanac/World/Maps/Terrene World Map.png": "FasMap",
-  "1. World Almanac/World/Maps/Terrene_World_Regional.png": "FasMap",
-  "1. World Almanac/World/Maps/Utorim/Utorim.png": "FasMap",
-  "1. World Almanac/World/Maps/Utorim/Underdale.jpg": "FasMap"
+  "1. World Almanac/World/Deities/Deities.md": "FasInfo"
 }

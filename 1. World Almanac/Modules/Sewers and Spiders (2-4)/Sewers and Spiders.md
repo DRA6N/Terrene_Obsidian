@@ -9,6 +9,7 @@ Sewers and Spiders is designed to be played for 2-4 hrs for a party of three to 
 
 ## Important NPCs
 ##### **Thandion Reeves** - "Gentleman" Thief
+![[Thandion Reeves.png|lp center| 500]]
 *Neutral Evil - Half-Orc*
 
 Every city has a dark side. For as long as people have been coming together to build civilization, some have chosen the path of professional criminality. Thandion Reeves is one such person. Thandion made his name among the criminal element of Underdale with a thieves' guild known as the *Heel of the Snake.* 

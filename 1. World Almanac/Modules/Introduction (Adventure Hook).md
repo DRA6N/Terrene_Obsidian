@@ -3,16 +3,20 @@ banner: "![[Terrene_Banner.png]]"
 banner_y: 1
 
 ---
-   
+![[Terrene_Banner.png|lp center]]   
 
 
 ## Adventure Background
+``` ad-ReadAloud
+Tired of your monotonous lives, whether it be farming, working in the stables, selling yourselves out as mercenaries, or laboring as blacksmiths, you and your group of young companions yearn for the thrill of adventure. Craving a taste of the unknown, you decide to see the world and make some coin along the way.
 
-The characters are tired of their monotonous way of life, whether it be farming, working in the stables, selling themselves out as mercenaries, or working as a blacksmith. Maybe they are young, and haven't had a taste of that adventurer's life yet. They decide they want to see the world, and make some coin while doing so.
+During your travels, fate brings you together on a ship bound for Underdale, the major trade city just south of the Utorim mainland. Each of you, seeking a break from the routine, shares stories and dreams during the voyage. As the ship plows through the open waters, the camaraderie among you grows, and a decision is made to band together upon arriving in Underdale.
 
-During their travels, they hear about the major trade city just south of the Utorim mainland, Underdale, and decide that would be a good place to seek out adventure. The players spent the last of their coin getting to Underdale.
+With the last of your coins spent on the journey, you arrive in the bustling city with dreams of excitement and opportunity. Eager to gather rumors of adventure, you and your newfound companions head to the most popular tavern in Underdale. Laughter and the clinking of mugs surround you as you enter, a lively atmosphere that fuels your anticipation for the unknown adventures awaiting you in this vibrant trade city.
 
-After spending some time in Underdale, the characters sought out the employment guild (or see **Alternate Hook Below**). Inside the guild, there is a bulletin board with some job postings. Some of the papers are tattered and illegible, but there are a couple still in readable condition.
+Near the entrance, a bulletin board catches your collective eye. Pinned with various job postings, the worn and tattered papers speak of past adventurers who sought glory before you. Yet, a couple of notices remain in readable condition, promising potential adventures, coin, and a chance to break free from the monotony left behind. United by your shared journey and the tales exchanged on the ship, you stand ready to embrace the challenges and excitement that Underdale has to offer.
+```
+
 
 >[!info]- About Underdale
 >Underdale is a large costal city located just beyond the southernmost tip of Utorim.

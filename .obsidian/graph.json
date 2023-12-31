@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -12,6 +12,41 @@
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#spell",
+      "color": {
+        "a": 1,
+        "rgb": 194311
+      }
+    },
+    {
+      "query": "tag:#race",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#class  ",
+      "color": {
+        "a": 1,
+        "rgb": 16162052
+      }
+    },
+    {
+      "query": "tag:#monster  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#deity  ",
+      "color": {
+        "a": 1,
+        "rgb": 16318936
       }
     }
   ],
@@ -25,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.10512724593988863,
+  "scale": 0.07498468498199731,
   "close": false
 }
