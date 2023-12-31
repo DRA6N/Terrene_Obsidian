@@ -7,5 +7,8 @@
   "ITS@@scrollbar-width": 12,
   "ITS@@ITS-Sizes": "sizing-readable",
   "ITS@@file-line-width": 800,
-  "ITS@@tables-center": true
+  "ITS@@tables-center": true,
+  "ITS@@ITS-Table-Styling": "none",
+  "ITS@@tables-wide": false,
+  "ITS@@table-cell-padding-x": 10
 }
