@@ -4,11 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "7f01731f5249ecb9",
+        "id": "7ec45953df28aa78",
         "type": "tabs",
         "children": [
           {
-            "id": "2322d64e7e1f3210",
+            "id": "fa1c6dc1055b0d8d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Appendix C - Statblocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Thandion Reeves",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":30},\"to\":{\"line\":11,\"ch\":30}}}"
+                },
+                {
+                  "title": "Commands Reference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Thandion Reeves",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":2},\"to\":{\"line\":18,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "Random Stuff",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Random Stuff.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":3},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Thandion Reeves",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":2.9925924942163187}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/Modules/Introduction (Adventure Hook).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0799bc27e1ddcb8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,20 +77,32 @@
                 {
                   "title": "Introduction (Adventure Hook)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":15.840910460057547}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":26.295454545454547}"
                 },
                 {
-                  "title": "A Most Potent Brew",
+                  "title": "Random Stuff",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/A Most Potent Brew (1)/A Most Potent Brew.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Random Stuff.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Introduction (Adventure Hook)",
+                  "title": "Thandion Reeves",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":5.804045316190812}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
+                },
+                {
+                  "title": "Settlement Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Settlement Template.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Lady Akunai",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Lady Akunai.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
@@ -42,11 +111,33 @@
               "state": {
                 "file": "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
                 "mode": "preview",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "17691722a5ba1f29",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. World Almanac/NPCs/Thandion Reeves.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thandion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,17 +211,8 @@
             }
           },
           {
-            "id": "7e0ddea5c310f1e9",
+            "id": "3f11bd7502263804",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
@@ -149,7 +231,6 @@
       {
         "id": "e25458b98cb4f70a",
         "type": "tabs",
-        "dimension": 38.38095238095238,
         "children": [
           {
             "id": "6a122d018b5b3b50",
@@ -186,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
+                "file": "1. World Almanac/NPCs/Thandion Reeves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,15 +329,15 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "b9a2e8c32d3b7cf8",
+        "id": "8f7ae7f4919c2d4c",
         "type": "tabs",
-        "dimension": 61.61904761904762,
         "children": [
           {
-            "id": "d6396f0ddc2cd6b4",
+            "id": "e05421b05bd02b0d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -264,34 +345,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Carnival Flow Chart",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"diagram\",\"state\":{\"file\":\"Flow Charts/Carnival Flow Chart.svg\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Campaign Flow Chart",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Flow Charts/Campaign Flow Chart.md\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":60},\"to\":{\"line\":39,\"ch\":60}},\"scroll\":32.76331018518518}"
                 }
               ]
             },
-            "pinned": true,
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Flow Charts/Campaign Flow Chart.md"
-              },
-              "pinned": true
+              "type": "initiative-tracker-creature-view",
+              "state": {}
             }
           }
         ]
@@ -317,57 +376,58 @@
       "obsidian-custom-frames:Open TestCharacterSheet": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2322d64e7e1f3210",
+  "active": "17691722a5ba1f29",
   "lastOpenFiles": [
-    "z_Assets/Images/NPCs/Thandion Reeves.png",
+    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
+    "1. World Almanac/NPCs/Thandion Reeves.md",
     "1. World Almanac/Modules/Introduction (Adventure Hook).md",
-    "1. World Almanac/Modules/A Most Potent Brew (1)/A Most Potent Brew.md",
+    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
+    "0. Scratch Notes/Random Stuff.md",
+    "Templates/Settlement Template.md",
+    "1. World Almanac/NPCs/Lady Akunai.md",
+    "compendium/races/elf.md",
+    "Templates/NPC Template.md",
+    "1. World Almanac/NPCs/NPC Images/Lady Akunai.png",
+    "1. World Almanac/World/Regions/Utorim/Underdale.md",
+    "About the Campaign.md",
+    "0. DM Screen/0. DM Screen.md",
+    "1. World Almanac/NPCs/Lady Kunai.md",
+    "1. World Almanac/NPCs/NPC Images/Thandion Reeves.png",
+    "0. Scratch Notes/Commands Reference.md",
+    "compendium/races/half-orc.md",
+    "1. World Almanac/NPCs/Norrec.md",
+    "1. World Almanac/NPCs/NPC Images/ImagePlaceholder.png.md",
+    "1. World Almanac/NPCs/NPC Images",
+    "1.world almanac/npcs/npc images/ImagePlaceholder.png.md",
+    "1. World Almanac/NPCs/Thorian.md",
+    "1.world almanac/npcs/npc images",
+    "1.world almanac/npcs",
+    "1.world almanac",
+    "1. World Almanac/NPCs/Test NPC.md",
+    "../1. World Almanac/NPCs/New_NPC.md",
+    "New NPC.md",
+    "NewNPC.md",
+    "0. Scratch Notes/Statblock Test.md",
+    "Templates/New NPC 1.md",
+    "1. World Almanac/NPCs/NPC Images",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Assets/Misc",
+    "1. World Almanac/NPCs",
     "z_Assets/Images/NPCs",
     "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
-    "0. Scratch Notes/Callouts.md",
-    "z_Format Reference.md",
-    "About the Campaign.md",
-    "Flow Charts/Campaign Flow Chart.md",
-    "1. World Almanac/World/Regions/Regions.md",
     "1. World Almanac/World/Regions/The Shaard",
     "1. World Almanac/World/Regions/Underhollow",
-    "1. World Almanac/World/Regions/Mortilis",
     "1. World Almanac/World/Maps/Mortilis/Mortilis Map.jpg",
     "1. World Almanac/World/Maps/The Shaard/The Shaard.jpg",
-    "1. World Almanac/World/Deities/Deities Data.md",
-    "1. World Almanac/World/Regions/Utorim/Underdale.md",
     "1. World Almanac/World/Maps/Terrene World Map.png",
-    "1. World Almanac/World/Regions.md",
-    "1. World Almanac/World/Regions/Utorim",
-    "1. World Almanac/World/Regions",
-    "1. World Almanac/World/Regions/Utorum/Underdale.md",
-    "1. World Almanac/World/Regions/Utorum",
-    "Templates/Settlement Template.md",
-    "compendium/bestiary/monstrosity/bulette.md",
-    "compendium/items/spell-scroll-cantrip.md",
-    "5e SRD/00. 5e SRD.md",
-    "0. DM Screen/0. DM Screen.md",
     "z_Assets/Images/Condition Cards/Charmed.png",
-    "0. Scratch Notes/Commands Reference.md",
     "1. World Almanac/World/Maps/Terrene_World_Regional.png",
-    "1. World Almanac/World/Maps/Utorim/Utorim.md",
     "1. World Almanac/World/Maps/Utorim/Utorim.png",
-    "0. DM Screen/DM Screen Data/Random_Spell_Scroll_Table_1.md",
-    "0. DM Screen/DM Screen Data/Random Spell Scroll Generator.md",
-    "2. Mechanics/Races/Dhampir.md",
-    "Templates",
     "Flow Charts/Carnival Flow Chart.svg",
-    "Flow Charts",
-    "Flow Charts",
-    "1. World Almanac/World/Deities/Deities.md",
-    "z_Assets/Images/Race Images/dhampir.jpg",
-    "z_Assets/Images/Deity Images/umberlee.png",
-    "1. World Almanac/World/Maps/Maps.md",
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
     "1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas",
     "Test Canvas.canvas"
   ]

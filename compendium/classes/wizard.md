@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/wizard
-- compendium/src/5e/phb
-aliases: ["Wizard"]
+  - class/wizard
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Wizard
 ---
 # Wizard
 *Source: SRD / Basic Rules*  

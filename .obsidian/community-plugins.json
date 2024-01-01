@@ -1,7 +1,6 @@
 [
   "obsidian-5e-statblocks",
   "obsidian-admonition",
-  "buttons",
   "dataview",
   "obsidian-dice-roller",
   "fantasy-calendar",
@@ -26,5 +25,9 @@
   "colored-text",
   "obsidian-copy-block-link",
   "image-window",
-  "surfing"
+  "surfing",
+  "templater-obsidian",
+  "supercharged-links-obsidian",
+  "obsidian-meta-bind-plugin",
+  "obsidian-icon-folder"
 ]

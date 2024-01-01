@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/paladin
-- compendium/src/5e/phb
-aliases: ["Paladin"]
+  - class/paladin
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Paladin
 ---
 # Paladin
 *Source: SRD / Basic Rules*  

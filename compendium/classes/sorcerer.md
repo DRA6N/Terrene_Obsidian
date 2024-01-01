@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/sorcerer
-- compendium/src/5e/phb
-aliases: ["Sorcerer"]
+  - class/sorcerer
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Sorcerer
 ---
 # Sorcerer
 *Source: SRD / Basic Rules*  

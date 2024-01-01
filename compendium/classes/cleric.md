@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/cleric
-- compendium/src/5e/phb
-aliases: ["Cleric"]
+  - class/cleric
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Cleric
 ---
 # Cleric
 *Source: SRD / Basic Rules*  

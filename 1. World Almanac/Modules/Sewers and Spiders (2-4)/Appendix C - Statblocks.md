@@ -2,13 +2,11 @@
 ```statblock
 monster: Giant Rat 
 image: ![[Giant Rat.png]]
+columns: 2
 
 ```
 
-
-^Giant-Rat
-
-
+  
 ```statblock
 monster: Gelatinous Cube
 image: ![[Gelatinous Cube.png]]

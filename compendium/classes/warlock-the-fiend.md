@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/warlock/fiend
-- compendium/src/5e/phb
-aliases: ["The Fiend"]
+  - class/warlock/fiend
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - The Fiend
 ---
 # The Fiend
 *[Warlock](warlock.md): Otherworldly Patron*  

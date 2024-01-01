@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/barbarian/berserker
-- compendium/src/5e/phb
-aliases: ["Path of the Berserker"]
+  - class/barbarian/berserker
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Path of the Berserker
 ---
 # Path of the Berserker
 *[Barbarian](barbarian.md): Primal Path*  

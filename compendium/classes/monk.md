@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/monk
-- compendium/src/5e/phb
-aliases: ["Monk"]
+  - class/monk
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Monk
 ---
 # Monk
 *Source: SRD / Basic Rules*  

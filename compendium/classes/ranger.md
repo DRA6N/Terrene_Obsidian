@@ -1,10 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/ranger
-- compendium/src/5e/phb
-aliases: ["Ranger"]
+  - class/ranger
+  - compendium/src/5e/phb
+  - class
+aliases:
+  - Ranger
 ---
 # Ranger
 *Source: SRD / Basic Rules*  

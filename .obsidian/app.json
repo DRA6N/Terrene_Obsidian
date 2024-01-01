@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
@@ -26,5 +26,6 @@
   "defaultViewMode": "preview",
   "propertiesInDocument": "hidden",
   "readableLineLength": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "strictLineBreaks": true
 }
