@@ -16,18 +16,17 @@
   "obsidian-kanban",
   "obsidian-custom-frames",
   "obsidian-excalidraw-plugin",
-  "url-into-selection",
   "obsidian-view-mode-by-frontmatter",
   "obsidian-textgenerator-plugin",
   "obsidian-text-format",
   "obsidian-excel-to-markdown-table",
   "obsidian-vault-statistics-plugin",
-  "colored-text",
   "obsidian-copy-block-link",
   "image-window",
   "surfing",
   "templater-obsidian",
   "supercharged-links-obsidian",
   "obsidian-meta-bind-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "colored-text"
 ]

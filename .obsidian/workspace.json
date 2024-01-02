@@ -8,115 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa1c6dc1055b0d8d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Appendix C - Statblocks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thandion Reeves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":30},\"to\":{\"line\":11,\"ch\":30}}}"
-                },
-                {
-                  "title": "Commands Reference",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Commands Reference.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Thandion Reeves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":2},\"to\":{\"line\":18,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "Random Stuff",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Random Stuff.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":3},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Thandion Reeves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":2.9925924942163187}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. World Almanac/Modules/Introduction (Adventure Hook).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e0799bc27e1ddcb8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Introduction (Adventure Hook)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/Modules/Introduction (Adventure Hook).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":26.295454545454547}"
-                },
-                {
-                  "title": "Random Stuff",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/Random Stuff.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Thandion Reeves",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Thandion Reeves.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
-                },
-                {
-                  "title": "Settlement Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Settlement Template.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Lady Akunai",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. World Almanac/NPCs/Lady Akunai.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "17691722a5ba1f29",
+            "id": "f5e8e7c3dfae63cb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -135,9 +27,75 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dea956f3297efe31",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Currency Calculator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2. Mechanics/Currency Calculator.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Norrec Vizharan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. The Party/Characters/Norrec Vizharan.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. The Party/Characters/Norrec Vizharan.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6f75c81354bb0163",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/math.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}}}"
+                },
+                {
+                  "title": "math test",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Scratch Notes/math test.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":22},\"to\":{\"line\":5,\"ch\":22}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Scratch Notes/math test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,6 +171,15 @@
           {
             "id": "3f11bd7502263804",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "surfing-tab-tree",
               "state": {}
@@ -267,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. World Almanac/NPCs/Thandion Reeves.md",
+                "file": "1. The Party/Characters/Norrec Vizharan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,16 +344,31 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "17691722a5ba1f29",
+  "active": "4f144ab050d689bc",
   "lastOpenFiles": [
-    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
+    "2. Mechanics/Currency Calculator.md",
+    "0. Scratch Notes/math test.md",
+    "1. The Party/Characters/Norrec Vizharan.md",
     "1. World Almanac/NPCs/Thandion Reeves.md",
+    "1. The Party/Characters/Eric_Hume.md",
+    "0. Scratch Notes/math.md",
+    "5e SRD/00. 5e SRD.md",
+    "0. DM Screen/DM Screen Data/Character Generator.md",
+    "0. DM Screen/0. DM Screen.md",
+    "0. Scratch Notes/Random Stuff.md",
+    "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
+    "compendium/bestiary/beast/ape.md",
+    "1. The Party/Characters/Character Portraits/Norrec Vizharan.png",
+    "1. The Party/Characters/Character Portraits",
+    "1. The Party/Characters/New folder",
+    "1. The Party/Characters/Test Character.md",
+    "1. World Almanac/Modules/Sewers and Spiders (2-4)/Sewers and Spiders.md",
     "1. World Almanac/Modules/Introduction (Adventure Hook).md",
     "1. World Almanac/Modules/Sewers and Spiders (2-4)/Appendix C - Statblocks.md",
-    "0. Scratch Notes/Random Stuff.md",
     "Templates/Settlement Template.md",
     "1. World Almanac/NPCs/Lady Akunai.md",
     "compendium/races/elf.md",
@@ -394,7 +376,6 @@
     "1. World Almanac/NPCs/NPC Images/Lady Akunai.png",
     "1. World Almanac/World/Regions/Utorim/Underdale.md",
     "About the Campaign.md",
-    "0. DM Screen/0. DM Screen.md",
     "1. World Almanac/NPCs/Lady Kunai.md",
     "1. World Almanac/NPCs/NPC Images/Thandion Reeves.png",
     "0. Scratch Notes/Commands Reference.md",
@@ -402,32 +383,19 @@
     "1. World Almanac/NPCs/Norrec.md",
     "1. World Almanac/NPCs/NPC Images/ImagePlaceholder.png.md",
     "1. World Almanac/NPCs/NPC Images",
-    "1.world almanac/npcs/npc images/ImagePlaceholder.png.md",
-    "1. World Almanac/NPCs/Thorian.md",
     "1.world almanac/npcs/npc images",
     "1.world almanac/npcs",
     "1.world almanac",
-    "1. World Almanac/NPCs/Test NPC.md",
-    "../1. World Almanac/NPCs/New_NPC.md",
-    "New NPC.md",
-    "NewNPC.md",
-    "0. Scratch Notes/Statblock Test.md",
-    "Templates/New NPC 1.md",
     "1. World Almanac/NPCs/NPC Images",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
     "z_Assets/Misc",
     "1. World Almanac/NPCs",
     "z_Assets/Images/NPCs",
-    "z_Assets/Images/Char Sheet Images/Pasted Image 20231222162840_679.jpg",
-    "1. World Almanac/World/Regions/The Shaard",
-    "1. World Almanac/World/Regions/Underhollow",
     "1. World Almanac/World/Maps/Mortilis/Mortilis Map.jpg",
     "1. World Almanac/World/Maps/The Shaard/The Shaard.jpg",
     "1. World Almanac/World/Maps/Terrene World Map.png",
     "z_Assets/Images/Condition Cards/Charmed.png",
     "1. World Almanac/World/Maps/Terrene_World_Regional.png",
     "1. World Almanac/World/Maps/Utorim/Utorim.png",
-    "Flow Charts/Carnival Flow Chart.svg",
     "1. The Party/Characters/Ulfgar Caskborn/Untitled.canvas",
     "Test Canvas.canvas"
   ]

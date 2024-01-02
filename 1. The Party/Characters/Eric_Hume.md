@@ -13,7 +13,6 @@ status:
 campaign: Terrene
 cssclasses:
   - illusion
-  - table
 publish: true
 ---
 > [!infobox]

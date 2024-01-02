@@ -1,5 +1,6 @@
 ---
 Image: ![[Thandion Reeves.png]]
+
 ---
 
 ```button
@@ -33,7 +34,6 @@ actions:
 ```
 ---
 
-
 ```meta-bind-button
 label: NPC Generate
 hidden: false
@@ -47,3 +47,4 @@ actions:
     openNote: true
 
 ```
+
